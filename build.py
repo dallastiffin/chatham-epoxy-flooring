@@ -1290,7 +1290,6 @@ home += f"""
 
     <div class="hero__intro">
       <h1 id="hero-heading">{esc(h1)}</h1>
-{hero_paras}
       <ul class="hero__badges">
 {chr(10).join('        <li>%s</li>' % esc(b) for b in sc_lines("Hero Badges"))}
       </ul>
@@ -1299,6 +1298,18 @@ home += f"""
         <a class="btn btn--ghost btn--lg" href="#hero-quote">Get a Free Quote</a>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- ============================= INTRO BAND =============================
+     The opening copy used to sit inside the hero, under the h1. Moving it
+     out leaves the hero as name, place, headline, badges and the two calls
+     to action, which is all a visitor needs above the fold. The prose then
+     gets a white band of its own at a comfortable reading size, instead of
+     competing with a photograph behind it. -->
+<section class="intro-band">
+  <div class="container intro-band__inner">
+{hero_paras}
   </div>
 </section>
 

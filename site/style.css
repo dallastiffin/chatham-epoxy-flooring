@@ -681,6 +681,30 @@ strong { color: var(--color-heading); }
 }
 .hero--home .btn-row { justify-content: center; margin-top: var(--space-6); }
 
+/* --- Intro band: the opening copy, lifted out of the hero ---
+   Sits between the hero's calls to action and the estimate form. White
+   background, centred on the same axis as everything above it, and set a
+   step larger than body copy so it reads as an opening rather than as the
+   first of many sections. */
+.intro-band {
+  background: var(--color-white);
+  padding-block: var(--space-7);
+}
+.intro-band__inner {
+  max-width: 720px;
+  text-align: center;
+}
+.intro-band p {
+  font-size: var(--fs-md);
+  line-height: 1.65;
+  color: var(--color-text);
+  margin-bottom: var(--space-5);
+}
+.intro-band p:last-child {
+  margin-bottom: 0;
+  color: var(--color-text-muted);
+}
+
 /* --- Quote band: the estimate form, lifted out of the hero --- */
 .quote-band {
   background: var(--color-bg-alt);
