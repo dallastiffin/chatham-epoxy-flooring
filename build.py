@@ -180,18 +180,21 @@ def parse_block(block):
     flush_para()
     return h1, sections
 
-# Chatham runs twelve service pages, not the template's six. Everything that
+# Chatham runs nine service pages, not the template's six. Everything that
 # used to be a hard-coded index is derived from N_SERVICES so the block
 # layout stays consistent if that number changes again.
 #
 # Layout: home, N service pages, about, contact, FAQ, SEO table, SITE COPY.
-# Ten of the twelve match the other cities in this network. The two extra
-# pages - agricultural and farm buildings, and food processing and packing -
-# exist because Chatham-Kent genuinely supports them: 630,000 acres of
-# farmland, more than 2,400 farms, over 20 million square feet of greenhouse
-# and roughly $1.3bn a year in farm cash receipts. No other city in this
-# network has that base, so no other city gets those two pages.
-N_SERVICES = 12
+# This started at twelve and was consolidated to nine. Commercial, industrial
+# and warehouse, agricultural and farm buildings, and food processing and
+# packing were four separate pages that all sold the same thing to different
+# buyers, and two of them competed for the same "commercial epoxy flooring"
+# searches. They are now one "Industrial and Commercial Flooring" page.
+#
+# The farm and food material was not dropped - Chatham-Kent has 630,000 acres
+# of farmland, 2,400+ farms and 20M+ sq ft of greenhouse behind it, and that
+# content is genuinely local. It lives as sections inside the merged page.
+N_SERVICES = 9
 EXPECTED_BLOCKS = N_SERVICES + 6
 if len(blocks) < EXPECTED_BLOCKS:
     sys.exit(
@@ -289,13 +292,8 @@ SERVICE_PAGES = [
     ("polyaspartic-floor-coating.html", "Polyaspartic Floor Coating", "Polyaspartic Floor Coating"),
     ("basement-floor-coating.html",     "Basement Floor Coating",     "Basement Floor Coating"),
     ("concrete-floor-coating.html",     "Concrete Floor Coating",     "Concrete Floor Coating"),
-    ("commercial-epoxy-flooring.html",  "Commercial Epoxy Flooring",  "Commercial Epoxy Flooring"),
-    ("industrial-warehouse-flooring.html",      "Industrial and Warehouse Flooring",
-     "Industrial and Warehouse"),
-    ("agricultural-and-farm-building-flooring.html",
-     "Agricultural and Farm Building Flooring", "Farm Building Flooring"),
-    ("food-processing-and-packing-floor-coating.html",
-     "Food Processing and Packing Floor Coating", "Food Processing Floors"),
+    ("industrial-and-commercial-flooring.html",
+     "Industrial and Commercial Flooring", "Industrial and Commercial"),
     ("patio-and-outdoor-concrete-coating.html", "Patio and Outdoor Concrete Coating",
      "Patio and Outdoor Coating"),
     ("epoxy-floor-repair-and-recoating.html",   "Epoxy Floor Repair and Recoating",
@@ -957,17 +955,10 @@ PAGE_PHOTOS = [
    "Coated basement slab running past the furnace and water heater"),
   ("finished grey basement.png", "service-concrete-floor-coating", (16,10), [640,960],
    "Bare concrete slab coated wall to wall in a flat grey system"),
-  ("commercial 1.png", "service-commercial-epoxy-flooring", (16,10), [640,960],
-   "Flake floor carried across an open commercial unit"),
-  ("warehouse-industrial-chatham.png", "service-industrial-warehouse-flooring",
+  # The one genuinely unique image on this site goes on the merged page.
+  ("warehouse-industrial-chatham.png", "service-industrial-and-commercial-flooring",
    (16,10), [640,960],
    "Industrial coating being pulled out across a warehouse slab"),
-  ("finished warhouse.png", "service-agricultural-and-farm-building-flooring",
-   (16,10), [640,960],
-   "Coated floor and marked traffic lanes in a large equipment building"),
-  ("Orange Epoxy Pour.png", "service-food-processing-and-packing-floor-coating",
-   (16,10), [640,960],
-   "Resin being poured out and spread to a measured thickness"),
   ("curved patio.png", "service-patio-and-outdoor-concrete-coating", (16,10), [640,960],
    "Porch slab sealed with the coating carried right over the edge"),
   ("grey epoxy pour basement.png", "service-epoxy-floor-repair-and-recoating",
@@ -989,8 +980,8 @@ GALLERY_PHOTOS = [
   "Mid grey chip taken right up to the door track"),
  ("other blue floor.png", "blue-flake-three-bay",
   "Deep blue chip across all three bays"),
- ("finished blue speckled floor.png", "blue-chip-broadcast-full",
-  "Blue chip loaded to refusal, no bare edge anywhere"),
+ ("commercial 1.png", "open-commercial-unit",
+  "Flake floor carried across an open commercial unit"),
  ("grage with car.png", "coated-floor-back-in-service",
   "Finished floor back in service with the car on it"),
  ("1 Car garage.png", "single-bay-with-wall-storage",
@@ -1007,8 +998,8 @@ GALLERY_PHOTOS = [
   "Sealed slab in a glassed-in porch off the back"),
  ("14d32429-0422-465d-9b5c-483d6fe4015c.png", "covered-outdoor-slab",
   "Sheltered outdoor slab sealed right to the edge"),
- ("orange floor.png", "orange-flake-double-bay",
-  "Warm orange chip covering both bays"),
+ ("finished warhouse.png", "warehouse-lane-marking",
+  "Warehouse floor with traffic lanes marked out"),
 ]
 
 
@@ -1035,10 +1026,7 @@ CROP = {
   "service-polyaspartic-floor-coating":                (0.60, 0.55, 1.20),
   "service-basement-floor-coating":                    (0.38, 0.58, 1.14),
   "service-concrete-floor-coating":                    (0.60, 0.60, 1.22),
-  "service-commercial-epoxy-flooring":                 (0.40, 0.56, 1.15),
-  "service-industrial-warehouse-flooring":             (0.50, 0.52, 1.00),
-  "service-agricultural-and-farm-building-flooring":   (0.58, 0.52, 1.12),
-  "service-food-processing-and-packing-floor-coating": (0.44, 0.60, 1.20),
+  "service-industrial-and-commercial-flooring":         (0.50, 0.52, 1.00),
   "service-patio-and-outdoor-concrete-coating":        (0.56, 0.62, 1.18),
   "service-epoxy-floor-repair-and-recoating":          (0.42, 0.60, 1.16),
   # Hardest case in the set: three other sites run this exact photo on this
@@ -1048,9 +1036,10 @@ CROP = {
   "about-chatham-epoxy-flooring":                      (0.56, 0.56, 1.12),
   "services-epoxy-flooring-chatham":                   (0.44, 0.58, 1.12),
 
+  "open-commercial-unit":              (0.40, 0.56, 1.15),
+  "warehouse-lane-marking":            (0.58, 0.52, 1.12),
   "grey-flake-finished-to-the-track":  (0.58, 0.58, 1.15),
   "blue-flake-three-bay":              (0.42, 0.56, 1.18),
-  "blue-chip-broadcast-full":          (0.60, 0.60, 1.20),
   "coated-floor-back-in-service":      (0.44, 0.54, 1.14),
   "single-bay-with-wall-storage":      (0.56, 0.58, 1.16),
   "two-bay-grey-flake":                (0.60, 0.56, 1.22),
@@ -1059,7 +1048,6 @@ CROP = {
   "basement-slab-past-the-furnace":    (0.62, 0.54, 1.20),
   "three-season-porch-slab":           (0.42, 0.60, 1.16),
   "covered-outdoor-slab":              (0.58, 0.58, 1.14),
-  "orange-flake-double-bay":           (0.40, 0.62, 1.20),
 }
 
 _init_photos()

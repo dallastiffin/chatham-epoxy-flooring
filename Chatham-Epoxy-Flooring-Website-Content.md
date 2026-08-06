@@ -330,133 +330,55 @@ Tell us the size, what happens on it and what is on it now. Call +1 226-457-4250
 
 # SERVICE PAGE 6
 
-# Commercial Epoxy Flooring In Chatham, Ontario
+# Industrial And Commercial Flooring In Chatham, Ontario
 
-## Floors That Have To Stay Open
+## Floors That Have To Earn Their Keep
 
-A commercial floor has a different problem to a domestic one, and it is not that the work is harder. It is that the room has to be back in use on a date you can plan a business around.
+A working floor is specified against three things: what rolls across it, how it gets cleaned, and when the building can afford to be shut. Everything else follows from those answers, which is why a retail unit, a warehouse, an equipment shop and a packing room all end up with different builds even though they start from the same materials.
 
-That drives the whole specification: which resin gets used, how the floor is sectioned and when we work. We schedule commercial jobs around your hours rather than ours, which usually means evenings, weekends, or taking half the floor at a time so the business keeps running while the other half cures.
+We coat all of them across Chatham-Kent, and the first conversation is always about how the space actually gets used rather than about resin.
 
-## Where We Work
+## Shops, Showrooms And Commercial Units
 
-Shops and showrooms, where what is underfoot is part of what a customer registers. Auto shops, tyre bays and service floors, where oil and point loading decide the build. Restaurant kitchens and back-of-house, which get washed and have to drain. Clinics, salons and studios that need a floor that cleans properly and still looks right. And the storage and stock rooms behind all of them.
+Retail floors, showrooms, clinics, salons, studios and the stock rooms behind them mostly need a floor that cleans easily and still looks right after a year of foot traffic. Auto shops and service bays are a different problem again, where oil and point loading from a hoist or a jack decide the thickness.
 
-## Specifying It Properly
+What these jobs really have in common is scheduling. The room has to reopen on a date you can plan a business around, so we work evenings and weekends or take half the floor at a time, and the phasing goes on the quote with dates attached rather than being worked out on the morning.
 
-Traffic comes first, because foot traffic, pallet trucks, forklifts and vehicles are four different specifications rather than one with options. Cleaning comes next: a floor that gets hosed needs coving up the wall and falls that genuinely work, while one that gets dust mopped does not.
+## Warehouses And Industrial Slabs
 
-Then grip. Anywhere that gets wet wants aggregate through the top coat, and there is a real trade-off between how grippy a floor is and how easily it cleans, which we would rather talk through than guess at. Finally there is marking. Aisles, bays, walkways and hazard edges are laid out before anything goes down, because adding them afterwards means coating the floor twice.
+A forklift puts several tonnes through four small patches of rubber, and a loaded pallet truck grinds along the same line hundreds of times a week. Both will find any weakness in the bond between resin and concrete, and they will find it fast, so the build goes thicker and the wear layer goes harder.
+
+Industrial slabs also tend to be old, large and carrying history. Previous coatings come off rather than get covered, because a new system is only ever as well attached as the layer beneath it, and oil that has soaked in over the years is ground out or cut out where it has gone right through. Joints matter more at this scale too: a slab this size moves, and a joint filled with the wrong material will split the coating along its entire length.
+
+Line marking gets laid out before any resin goes down, since retrofitting it means coating the floor twice. Aisles, pedestrian walkways in a contrasting colour, racking footprints, staging bays and hazard edges at docks and steps all get planned with whoever runs the floor.
+
+## Farm Shops And Equipment Buildings
+
+Chatham-Kent farms more ground than any other municipality in Ontario, with roughly 630,000 acres, more than 2,400 farms and over 20 million square feet of greenhouse behind something like $1.3 billion a year in farm receipts. The buildings that come with that are neither garages nor warehouses.
+
+An equipment shop takes a loaded tractor or combine tyre, which behaves nothing like a car tyre, and sits with diesel, hydraulic oil and grease on the floor between washes. Fertiliser and chemical stores hold things that will attack the wrong resin, so the build gets chosen against what is genuinely on the shelf. Greenhouse headhouses and potting areas are wet more or less constantly and take pallet traffic all day.
+
+Heat is the other consideration. Most farm buildings are unheated, and epoxy needs around ten degrees in the concrete before it will cure properly, which an open shop in February is nowhere near. Polyaspartic cures a long way colder, so that is usually the answer, and either way we put a thermometer on the slab rather than trusting the forecast.
+
+## Packing Rooms, Kitchens And Food Plants
+
+Floors that get washed every day are held to a standard nothing else here has to meet. They need to be as close to seamless as possible, because every joint is somewhere residue can sit. They need coving carried up the wall, which removes the floor-to-wall joint entirely and lets a hose take everything to the drain instead of into a corner. And they need to actually fall to that drain, since a coating follows whatever shape is underneath it, so a floor that does not currently drain gets corrected during preparation rather than papered over.
+
+They also have to survive thermal shock, because hot washdown onto a cold slab moves the coating and the concrete at different rates and a build that has not allowed for it will debond. The resin has to resist the cleaning chemistry rather than just the food, and the aggregate through the top coat has to be graded to the room: too fine and it is slippery wet, too coarse and nobody can get it clean.
+
+That covers packing and grading lines, cold rooms and coolers, wash bays, commercial kitchens and back-of-house, bottling and canning areas, and greenhouse packing rooms.
 
 ## What You Get In Writing
 
-The build layer by layer, the cure times for foot and full traffic, the colour and any line marking, and the dates, including which sections are closed when. You should be able to hold that against another quote and see immediately where the two differ.
+The build layer by layer, the cure times for foot and full traffic, the colour and any line marking, and the dates, including which sections are closed when. You should be able to hold that beside another quote and see immediately where the two differ.
 
-## Get A Commercial Floor Quoted
+## Get A Working Floor Quoted
 
-Call +1 226-457-4250. We will walk the space, look at what the floor is doing now, and quote around your opening hours rather than through them.
+Square footage, what rolls across it and whether it gets washed down is enough to start. Call +1 226-457-4250 and we will walk the space and quote around your hours rather than through them.
 
 ---
 
 # SERVICE PAGE 7
-
-# Industrial And Warehouse Flooring In Chatham, Ontario
-
-## Built For Loads, Not Looks
-
-An industrial floor is specified against weight and wear, and everything else follows from that.
-
-A forklift puts several tonnes through four small patches of rubber, and a loaded pallet truck grinds along the same line hundreds of times a week. Both will find any weakness in the bond between resin and concrete, and they will find it quickly. So the build goes thicker, the wear layer goes harder, and the preparation goes deeper than it ever does on a garage.
-
-## Getting The Preparation Right
-
-Industrial slabs tend to be old, large and carrying history. Previous coatings come off rather than get covered over, because a new system is only ever as well attached as the layer beneath it. Oil that has soaked in over years is ground out, and where it has gone right through, cut out and rebuilt.
-
-Joints get treated properly too. A slab this size moves, and a joint filled with the wrong material will split the coating along its whole length. We grind in sections and vacuum as we go so the rest of the building keeps working around us.
-
-## Line Marking And Zones
-
-Marking is laid out before any resin goes down, because retrofitting it means coating the floor a second time. That covers aisles and traffic lanes, pedestrian walkways in a contrasting colour, racking footprints, loading and staging bays, and hazard edges at docks and steps.
-
-Getting it right the first time is a planning exercise rather than a painting one, so we walk the floor with whoever actually runs it before we quote.
-
-## Grip Where It Is Wet
-
-A smooth industrial floor is fine dry and genuinely dangerous wet. Wherever there is washdown, condensation at a dock door or anything that spills, we carry aggregate through the top coat. It costs a little more effort to clean and it is worth it every time.
-
-## Phasing It
-
-Almost nobody can close a whole building, so we section the floor, coat it in phases and work around production and shift patterns. Nights and weekends are normal on this kind of job, and the phasing plan is part of the quote rather than something worked out on the day.
-
-## Quote An Industrial Floor
-
-Square footage, traffic type and whether it gets washed down is enough to start. Call +1 226-457-4250.
-
----
-
-# SERVICE PAGE 8
-
-# Agricultural And Farm Building Flooring In Chatham, Ontario
-
-## Farm Floors Are Their Own Problem
-
-Chatham-Kent farms more ground than any other municipality in Ontario, with roughly 630,000 acres, more than 2,400 farms and over 20 million square feet of greenhouse behind something like $1.3 billion a year in farm cash receipts. The buildings that go with all that are not garages and they are not warehouses, and they get their own specification.
-
-## What The Buildings Have To Take
-
-An equipment shop takes a loaded tractor or combine tyre, which behaves nothing like a car tyre, and it sits with diesel, hydraulic oil and grease on the floor between washes. The doors are open most of the year, so the slab lives at close to outside temperature.
-
-Fertiliser and chemical stores hold things that will attack the wrong resin, so the build gets chosen against what is genuinely stored rather than against a general-purpose spec. Greenhouse headhouses and potting areas are wet more or less constantly, carry fertiliser salts and take pallet traffic all day. Livestock areas need a floor that can be washed hard and holds nothing in a joint, and grain and commodity buildings want a sealed slab that neither dusts nor absorbs.
-
-## How We Build Them
-
-Thicker than a domestic floor and with a harder wear layer, aggregate through the top coat anywhere it gets wet, which on a farm is most places, and coving carried up the wall wherever the floor gets hosed so there is no floor-to-wall joint holding water and residue. Chemical resistance is matched to the actual contents of the building, and we pay a lot of attention to the door line, because that is where an open shop meets the weather.
-
-## The Cold Question
-
-Most farm buildings are unheated or barely heated, and that decides the resin more than anything else does. Epoxy needs around ten degrees in the concrete, and an open equipment shop in February is nowhere near that, while polyaspartic will cure a long way colder. So on unheated buildings polyaspartic is usually the answer, or we heat the space and work to the temperature of the slab rather than a date on the calendar. Either way we put a thermometer on the concrete rather than trusting the forecast.
-
-## Timing Around The Season
-
-Nobody wants their shop floor closed during spring work or through harvest, so the realistic windows here are mid-summer and late autumn, and they book up. Tell us early and we will hold a date for you.
-
-## Get A Farm Building Quoted
-
-Building type, rough size, what is stored or worked on in it, and whether it is heated. Call +1 226-457-4250.
-
----
-
-# SERVICE PAGE 9
-
-# Food Processing And Packing Floor Coating In Chatham, Ontario
-
-## Floors That Get Washed Every Day
-
-Chatham-Kent grows, packs and processes a great deal of food, and the floors in those buildings are held to a standard nothing else we coat has to meet.
-
-They get washed daily, often with hot water and caustic cleaners. They cannot hold anything anywhere. And they have to stay non-slip while wet, because wet is the condition they spend most of their working life in. That makes it a specification problem before it is ever a resin problem.
-
-## What The Build Has To Do
-
-It has to be seamless, because every joint is somewhere residue can sit, so the aim is a floor with as few of them as is physically possible. It has to cove up the wall, which removes the floor-to-wall joint entirely and lets a hose take everything to the drain instead of into a corner. And it has to fall to that drain properly, since a coating follows the shape underneath it and a floor that does not currently drain gets corrected during preparation rather than papered over.
-
-It also has to survive thermal shock. Hot washdown onto a cold slab moves the coating and the concrete at different rates, and a build that has not allowed for that will debond. On top of all of it, the resin has to resist the cleaning chemistry rather than just the food, and the aggregate carried through the top coat has to be graded to the room: too fine and it is slippery, too coarse and nobody can get it clean.
-
-## Where This Applies
-
-Packing and grading lines, cold rooms and coolers, wash bays, commercial kitchens and back-of-house, bottling and canning areas, and greenhouse packing rooms and headhouses.
-
-## How We Work Around Production
-
-These buildings run to a schedule that cannot move for a floor, so we phase the work, section the room and work nights, weekends or shutdown windows. Fast-curing resins matter more here than anywhere else, because every hour a room stays closed costs real money, and the phasing plan goes into the quote with dates against it.
-
-## Talk To Us About A Food Grade Floor
-
-Tell us the room, the wash regime and the shutdown window you have to work inside. Call +1 226-457-4250.
-
----
-
-# SERVICE PAGE 10
 
 # Patio And Outdoor Concrete Coating In Chatham, Ontario
 
@@ -484,7 +406,7 @@ Send a photo of the slab and tell us whether it is covered, which tells us most 
 
 ---
 
-# SERVICE PAGE 11
+# SERVICE PAGE 8
 
 # Epoxy Floor Repair And Recoating In Chatham, Ontario
 
@@ -514,7 +436,7 @@ One good close-up of the worst patch, the rough age of the floor, and whether it
 
 ---
 
-# SERVICE PAGE 12
+# SERVICE PAGE 9
 
 # Metallic Epoxy Flooring In Chatham, Ontario
 
@@ -739,29 +661,11 @@ SEO Title: Concrete Floor Coating | Chatham, Ontario
 
 Meta Description: Concrete floor coating in Chatham, Ontario. Diamond ground, cracks cut and filled, sealed so the slab stops dusting. Call +1 226-457-4250.
 
-## Commercial Epoxy Flooring
+## Industrial and Commercial Flooring
 
-SEO Title: Commercial Epoxy Flooring | Chatham, Ontario
+SEO Title: Industrial and Commercial Flooring | Chatham, Ontario
 
-Meta Description: Commercial epoxy flooring in Chatham. Phased around your opening hours, with cure dates written into the quote. Call us at +1 226-457-4250.
-
-## Industrial and Warehouse Flooring
-
-SEO Title: Industrial and Warehouse Flooring | Chatham, Ontario
-
-Meta Description: Industrial floor coating in Chatham-Kent. Forklift rated builds, joint treatment and line marking laid out first. Call us at +1 226-457-4250.
-
-## Agricultural and Farm Building Flooring
-
-SEO Title: Agricultural and Farm Building Flooring | Chatham, Ontario
-
-Meta Description: Farm building floor coating across Chatham-Kent. Equipment shops, chemical stores and greenhouse headhouses. Call us at +1 226-457-4250.
-
-## Food Processing and Packing Floor Coating
-
-SEO Title: Food Processing and Packing Floor Coating | Chatham, Ontario
-
-Meta Description: Food grade floor coating in Chatham-Kent. Seamless, coved to the wall, falling to drain and non-slip wet. Call us at +1 226-457-4250.
+Meta Description: Resin floors for shops, warehouses, farm buildings and packing rooms across Chatham-Kent. Phased around your hours. Call +1 226-457-4250.
 
 ## Patio and Outdoor Concrete Coating
 
@@ -979,13 +883,7 @@ service-basement-floor-coating: Coated basement slab running past the furnace an
 
 service-concrete-floor-coating: Bare concrete slab coated wall to wall in a flat grey system
 
-service-commercial-epoxy-flooring: Flake floor carried across an open commercial unit
-
-service-industrial-warehouse-flooring: Industrial coating being pulled out across a warehouse slab
-
-service-agricultural-and-farm-building-flooring: Coated floor and marked traffic lanes in a large equipment building
-
-service-food-processing-and-packing-floor-coating: Resin being poured out and spread to a measured thickness
+service-industrial-and-commercial-flooring: Industrial coating being pulled out across a warehouse slab
 
 service-patio-and-outdoor-concrete-coating: Porch slab sealed with the coating carried right over the edge
 
@@ -1001,7 +899,7 @@ grey-flake-finished-to-the-track: Grey flake floor finished tight to the garage 
 
 blue-flake-three-bay: Deep blue chip floor laid across all three bays of a garage
 
-blue-chip-broadcast-full: Blue chip broadcast taken wall to wall with no bare edge left
+open-commercial-unit: Flake floor carried across an open commercial unit
 
 coated-floor-back-in-service: Coated garage floor back in daily use with a vehicle on it
 
@@ -1019,4 +917,4 @@ three-season-porch-slab: Sealed slab in a glassed-in porch off the back of a hou
 
 covered-outdoor-slab: Covered outdoor slab coated and sealed to the edge
 
-orange-flake-double-bay: Warm orange chip floor covering both bays of a garage
+warehouse-lane-marking: Warehouse floor with traffic lanes marked out
