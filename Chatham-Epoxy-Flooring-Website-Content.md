@@ -2,241 +2,173 @@
 
 # Epoxy Flooring In Chatham, Ontario
 
-## Resin Floors Over Concrete, Built To The Job
+## A Floor You Can Park On, Work On And Wipe Clean
 
-We coat concrete. Garages, basements, shops, farm buildings, packing rooms and plants, right across Chatham-Kent.
+An epoxy floor turns bare concrete into a hard, sealed surface that takes a parked vehicle, a rolling toolbox and a dropped wrench without complaint. It stops the grey dust that comes off raw concrete, it keeps oil and road salt sitting on top where you can wipe them away instead of soaking in, and because the finish reflects light, a dim garage or basement ends up noticeably brighter than it was.
 
-Twelve builds, and the one your floor gets is decided by what it carries and what happens on top of it. The resin matters less than the preparation, which is the part nobody sees and the part every failed floor has in common.
-
-## The Four Builds, And What Each One Is For
-
-A flake system is a pigmented base coat with vinyl chip thrown in before it sets, sealed under a clear wear layer. It has grip, it hides marks, and it is what goes into most garages.
-
-A solid colour build is the same idea without the chip. Flat, even, easy to see a dropped bolt on. Shops and mechanical rooms usually want this.
-
-A polyaspartic build swaps the resin chemistry. It goes off much faster, it takes cold better, and it does not go yellow in daylight.
-
-A metallic build is decorative. Pigment is worked through a clear resin so the floor ends up with movement in it, like stone. It belongs in rooms people look at.
-
-Most jobs are one of those four. The specialist floors, food grade and chemical resistant builds, start from the same four and get modified.
+The part you can see is the easy part. Whether a floor lasts twenty years or starts peeling in two comes down to the concrete underneath it and the work that happens before anyone opens a pail of resin. That is where most of our time goes on every job, and it is the first thing we will talk to you about.
 
 ## What Are The Benefits Of Epoxy Flooring?
 
-A coated floor stops making dust. Uncoated concrete gives off a fine grey powder without ever stopping, and it settles on everything stored in the room.
+No more concrete dust. Raw concrete sheds a fine grey powder constantly, and it settles on everything you store in the room.
 
-It stops absorbing. Concrete is porous, so oil, brake fluid, fertiliser and salt soak in and stay. A sealed floor holds them on the surface until they are wiped up.
+Spills stay on the surface. Oil, brake fluid, fertiliser and salt sit on a sealed floor until you wipe them up, instead of soaking in and staining permanently.
 
-A mop deals with it. Bare concrete needs a pressure washer.
+It cleans with a mop. Most coated floors need nothing more than a sweep and warm water.
 
-It brightens the room. A light floor throws the light from a single fixture back up, and a garage or a basement that was dim stops being dim.
+The room gets brighter. A light-coloured floor bounces the light from a single fixture back up, which makes a real difference in a garage or a basement.
 
-It resists the salt that comes off a vehicle all winter, which is the single biggest cause of surface damage on a garage slab here.
+It shrugs off road salt. Salt coming off your vehicle every winter is the main thing that eats an uncoated garage slab, and a sealed floor simply does not absorb it.
 
-It lasts. A properly built system outlives the vehicle parked on it, often by a decade or more.
+It lasts. A properly built floor will outlive the vehicle parked on it, usually by a decade or more.
 
-## Flake, Solid Colour Or Metallic
+## Which Finish Suits Your Floor
 
-Flake is the default here, for three reasons. The chip layer carries thickness. The broken surface holds a boot. And the pattern swallows tyre marks that a plain colour would put on display inside a month.
+Most of the garages and basements we do get a flake finish, and there is a good reason for that. Coloured vinyl chip is scattered into the resin while it is still wet, which builds thickness into the middle of the floor, leaves enough texture underfoot that a wet boot grips, and hides the tyre marks and scuffs that a plain colour would put on display within a month.
 
-Solid colour reads cleaner and is easier to inspect. If you need to spot a leak or find a dropped part, a flat floor beats a patterned one.
+A solid colour does the opposite, and sometimes that is exactly what you want. A flat, even floor makes a dropped bolt easy to spot and a fresh leak obvious, which is why workshops and mechanical rooms usually ask for one.
 
-Metallic is a finish, not a workhorse. It is beautiful under good light and it belongs in a showroom, a finished basement or a room with a view, not under a truck.
+Metallic is the decorative option. Pigment is worked through clear resin while it moves, so the finished floor has depth and movement in it, closer to polished stone than to paint. It belongs in a showroom or a finished basement rather than under a truck.
 
-You can mix them. A shop with an office at one end often gets a solid colour through the working area and something with more in it where customers stand.
+There is no rule saying a building has to pick one. A shop with an office at the front often gets a hard-wearing solid colour through the working area and something better looking where customers stand.
 
-## How Thick The Floor Should Be
+## Thickness Is What You Are Really Paying For
 
-Thickness is where the money goes and where the honest comparisons happen.
+This is where quotes differ most, and where they are hardest to compare.
 
-A hardware store kit rolls out at a fraction of a millimetre and it is a paint, whatever the box says. It is thin enough that the tyre can grip it harder than the concrete does.
+A kit from a hardware store goes down at a fraction of a millimetre. Whatever the box calls it, it behaves like a paint, and it is thin enough that your tyres grip it harder than it grips the concrete. That is why so many of them lift at the wheel tracks in the first year.
 
-A professional flake build is far heavier than that, because the chip layer carries thickness of its own and the clear coat adds more again on top.
+A professional flake floor is many times heavier, because the chip layer has real body of its own and the clear coat on top adds more again. An industrial build goes thicker still, and often carries fine aggregate through the top coat for grip.
 
-An industrial build goes thicker still, and sometimes carries aggregate through the top coat for grip.
+We put the whole build on the quote in writing, layer by layer, including the primer, the base, how heavily the chip is broadcast and how many clear coats go over it. If a quote does not tell you what is actually going down, there is no way to weigh it against one that does.
 
-We put the build on the quote in writing: the primer, the base, the broadcast, the number of clear coats. If a quote does not tell you what is going down, you cannot compare it to one that does.
+## Why We Grind Instead Of Etching
 
-## Grinding Is The Job. Resin Is The Easy Part.
+Fresh concrete comes with a closed surface. Troweling during the pour pushes the fine material to the top and leaves behind a dense skin, and resin cannot get a grip on it.
 
-Concrete comes with a closed surface. Troweling during the pour presses the fine material to the top and leaves a dense skin that resin cannot key into.
+We take that skin off with diamond tooling, which leaves an open, slightly rough profile for the primer to lock into. It also lets us see what we are dealing with. Cracks, old glue, previous coatings and soft patches near a drain all show up once the top layer is gone, and every one of them gets sorted out before anything is mixed.
 
-We take that skin off with diamond tooling. What is left is an open, slightly rough profile that the primer can lock into mechanically.
+The shortcut is acid etching, and it is behind a great many of the failed floors around here. Acid takes the shine off without properly opening the pores, and it leaves residue that has to be neutralised and washed back out. We do not use it, and we would rather explain why now than be called back in eighteen months.
 
-Acid etching is the shortcut, and it explains a great many of the failed floors around here. Acid dulls the surface without ever opening the pores, and whatever is left over has to be washed back out of the concrete afterwards. We do not use it.
+## Why Your Slab Gets Tested First
 
-Grinding also lets us see the slab properly. Cracks, old adhesive, previous coatings, soft patches near a drain: all of it shows up once the top skin is gone, and all of it gets dealt with before anything is mixed.
+Every floor we quote gets a moisture reading before we put a price on it, and in this part of Ontario that is not a formality.
 
-## The Moisture Reading Comes First
+Chatham-Kent is a drained lake plain. The land is flat and low, sloping gently north toward Lake St. Clair, and the water table under it is managed rather than natural. The municipality looks after roughly 4,100 municipal drains running something like 4,000 kilometres between them. Take that network away and a great deal of this ground goes back to being wet.
 
-Every slab we quote gets tested for moisture before we price it, and here that is not a formality.
+Underneath your slab is heavy Brookston clay, and clay does not let water drain down and away. It holds it against the underside of the concrete instead. Concrete then wicks that moisture upward, and when it arrives beneath a sealed coating with nowhere left to go, it pushes the coating off in bubbles and sheets. Around here that is not a rare failure. It is the usual one.
 
-Chatham-Kent is a drained lake plain. The whole municipality is low, flat and slow, sloping gently north toward Lake St. Clair, and the water table under it is managed rather than natural. The municipality maintains roughly 4,100 municipal drains running something like 4,000 kilometres. Take that network away and a great deal of this land goes back to being wet.
-
-The soil holding your slab up is mostly heavy Brookston clay. Clay does not let water move down and away, so water sits against the underside of the concrete instead. Concrete wicks it upward. That vapour arrives at the top of the slab, and if it arrives underneath a sealed coating with nowhere to go, it pushes the coating off in bubbles and sheets.
-
-That is not a rare failure here. It is the normal one.
-
-So we measure. If the reading is high, the fix is a vapour-tolerant primer or a moisture-barrier build, not optimism. If the slab is too wet for any system, we will say so rather than take the job and come back to argue about it.
+So we measure. A high reading means a vapour-tolerant primer or a moisture-barrier build rather than crossed fingers, and on the rare slab too wet for any system at all, you will hear that from us rather than finding out the hard way a year later.
 
 ## What Happens During Installation?
 
-Day one is all preparation. The room gets emptied. We grind the whole slab, cut out and fill cracks, fill spalled areas and low spots, and vacuum continuously as we go so the dust stays inside the machine.
+Day one is preparation. The room is cleared, the whole slab is ground back with diamond tooling, cracks are cut out and filled, spalled patches and low spots are rebuilt, and we vacuum continuously as we go so the dust ends up in the machine rather than through your house.
 
-Then a primer, picked to suit the moisture number we took when we quoted.
+Then the primer goes down, matched to the moisture reading we took when we quoted.
 
-Day two is the build. Base coat first, then the chip goes in while the resin is still wet and keeps going until the floor stops taking it. Loading it that heavily is the only way to get one flat colour across the whole room. Spread thin, it comes out blotchy.
+Day two is the build. The base coat is laid, and chip is broadcast into it while it is wet until the resin will not take another flake. Loading it that heavily is the only way to get one even colour from wall to wall.
 
-Once it has cured we scrape and vacuum the loose chip off and bring the surface back flat.
+Once that has cured, the loose chip is scraped back and vacuumed off and the surface is brought flat again.
 
-A clear coat seals the lot, in one or two passes according to the spec.
+A clear coat seals the lot, laid once or twice over according to the spec.
 
-You can usually walk on it the next day. Vehicles wait longer, and how much longer depends on the resin and the temperature. We give you both dates in writing before we start, and we do not move them to suit our schedule.
+You can usually walk on it the next day. Vehicles wait longer, and how much longer depends on the resin and the temperature in the building. Both dates are on your quote before we start, and we do not move them to suit our schedule.
 
 ## Why Choose Chatham Epoxy Flooring?
 
-Whoever prices your floor is the one running the grinder on it, and the one you ring if it is not right. There is no crew you have not met turning up on the morning.
+The person who comes out and quotes your floor is the same person who grinds it, lays the resin and picks up the phone if something is not right afterwards. There is no crew you have never met turning up on the morning.
 
-We test every slab for moisture at no charge, before there is a price on the table.
+Every slab gets tested for moisture before there is a price on the table, at no charge, because on this ground that reading decides what your floor can actually take. We grind rather than acid etch, and we will not quote against someone who etches as though the two are the same job.
 
-We grind. We do not acid etch, and we will not quote against someone who does as though the two are the same job.
+The quote itself is a specification. Primer, base coat, how heavily the chip goes in, how many clear coats, cure times, colour and dates. You should be able to hold it beside anyone else's and see exactly where the two differ.
 
-The quote is a specification. Primer, base, broadcast rate, number of clear coats, cure times, colour. You can hold it up against anybody else's.
+We work in Chatham-Kent and nowhere else, and if your floor turns out to be a poor candidate for coating you will hear that from us before you have spent anything.
 
-We work in Chatham-Kent and that is all. Wallaceburg, Blenheim, Tilbury, Dresden, Ridgetown, Thamesville, Wheatley, Bothwell, Merlin, Erieau, Pain Court, and the concessions in between.
+## Installing Through A Chatham Winter
 
-If your floor is a poor candidate for coating, we will say so long before anyone writes a cheque.
+Chatham sits at the mild end of Ontario, and that helps less than you would expect.
 
-## Coating Through A Chatham Winter
+Look at what the thermometer actually does here. Through January the average high is about minus one and the average low about minus seven. In February the average high is a shade above freezing, and in December it is a couple of degrees above. So the slab in your garage does not freeze in December and stay frozen until March. It crosses zero and comes back, over and over, and every time it does, water sitting in the pores expands and pushes. A city that sits at minus thirteen all winter freezes once and holds. Cycling across zero for three months is harder on concrete than a hard freeze ever is.
 
-Chatham is the mild end of Ontario, and that helps less than you would think.
+For us that changes the method rather than the calendar. Epoxy wants around ten degrees in the slab before it will cure properly and can stall below that, while polyaspartic keeps curing a long way colder. So in winter we take the temperature of the concrete rather than the air, heat the building where it needs it, and specify polyaspartic on jobs where an epoxy build would be a gamble. We install right through the winter. We just tell you honestly which system the conditions will allow.
 
-Look at what the thermometer actually does. In January the average high here is about minus one and the average low about minus seven. In February the average high is a shade above zero. In December the average high is a couple of degrees above it.
+## What Does An Epoxy Floor Cost?
 
-So the slab in your garage does not freeze in December and stay frozen. It crosses zero and comes back, over and over, for three months. Every time it does, water sitting in the pores expands and pushes.
+Pricing works by the square foot, and the range is wide because preparation is most of the labour.
 
-A city that sits at minus thirteen all winter freezes once. Chatham freezes and thaws all winter long, and that cycling is harder on concrete than a hard freeze is.
+Across Ontario a professionally installed epoxy floor generally runs about $5 to $9 a square foot. Flake systems sit around $6 to $10, polyaspartic around $6 to $12, and metallic is the dearest at roughly $8 to $12. That puts a standard two-car garage of around four hundred square feet somewhere between about $1,600 and $3,200 for a full professional build.
 
-For us it changes the working method rather than the calendar. Epoxy needs about ten degrees in the slab before it will cure the way it should, and under that it can simply stop. Polyaspartic will go off far colder. So through the winter we put a thermometer on the concrete rather than trusting the forecast, we put heat into the building where it needs it, and we specify polyaspartic on any job where an epoxy build would be a bet.
+Heavy preparation adds to it, usually another $1 to $3 a square foot, and it is crack repair, oil contamination and grinding off a previous coating that drives that. Larger floors work out cheaper per foot than small ones, simply because the travel, the setup and the machinery cost the same either way.
 
-We install through the winter. We just tell you which system the weather allows.
+Treat all of that as market range, not a quote. What your own floor costs comes down to the state of the concrete, and nobody can tell you that honestly without looking at it.
 
-## What Does Epoxy Flooring Cost Here?
+## How Long It Lasts
 
-Pricing is by square foot, and the range is wide because preparation is most of the labour.
+Professionally installed polyaspartic is generally quoted at fifteen to twenty years, with some systems rated at twenty to twenty-five, and epoxy systems at twenty or more. Those numbers all assume the preparation was done properly, though. A thick floor over a badly prepared slab fails early no matter how good the resin is on paper.
 
-Across Ontario a professionally installed epoxy build sits at roughly $5 to $9 a square foot. Flake systems come in around $6 to $10, polyaspartic around $6 to $12, and metallic is dearest at roughly $8 to $12.
+In practice it is the clear coat that wears, because that is the layer taking the boots and the tyres. When it eventually goes dull at the wheel tracks, we can key that layer back and lay a fresh clear over it without touching the build underneath, and the floor effectively starts again.
 
-A standard two car garage of around four hundred square feet therefore lands somewhere between about sixteen hundred and thirty two hundred dollars for a full professional build.
+## Floors For Farms, Shops And Packing Rooms
 
-Heavy preparation adds to that, usually another one to three dollars a square foot, and it is the crack repair, the oil contamination and the grinding down of a previous coating that drives it.
+Chatham-Kent farms more land than anywhere else in Ontario, with something like 630,000 acres, more than 2,400 farms and over 20 million square feet of greenhouse behind roughly $1.3 billion a year in farm receipts. That produces buildings a garage specification does not cover.
 
-Bigger floors cost less per foot than small ones, because the setup, the travel and the machinery are the same either way.
+An equipment shop needs a floor that takes a loaded tractor tyre and does not lift when diesel and hydraulic oil sit on it. Packing and grading rooms get washed daily and have to drain properly without holding anything in a joint. Greenhouse headhouses live with constant water, fertiliser salts and pallet traffic. Chemical and fertiliser stores need a resin chosen against whatever is actually on the shelf.
 
-Those are market figures, not a quote. What your floor costs depends on the concrete, and we will not know that until we have looked at it.
+We build those differently: heavier resin, more thickness, coving carried up the wall wherever a floor gets hosed down, and aggregate through the top coat anywhere it will be wet and busy.
 
-## How Long The Floor Lasts
+## Colours And Finishes
 
-A professionally installed polyaspartic system is generally quoted at fifteen to twenty years, and some manufacturers say twenty to twenty five. Epoxy systems are quoted at twenty or more.
+Greys are the most common choice and they take garage light well. Tans and warm browns hide tracked-in dirt better than anything else, which matters more than you might think if your lane is gravel rather than asphalt. Blues and blacks look sharp but show dust faster, so they suit a finished basement better than a working shop.
 
-Those numbers assume the preparation was done. A thick system over a badly prepared slab fails early no matter what the resin can do in a laboratory.
+Chip size changes the look more than the colour does. A large flake reads as a definite pattern while a small one almost disappears into a texture, and we will lay both out at full size so you are not choosing off a card.
 
-In practice it is the top clear coat that gives out, because that is the layer taking the boots and the tyres. Once it goes flat where the wheels sit, we can key it back and put a new clear over it. The build underneath is never disturbed and the clock resets.
+Gloss level is a decision too. A full gloss is the brightest and shows every mark, satin is easier to live with day to day, and a matte finish with grit worked through it is the safest underfoot once the floor is wet.
 
-## Floors For Farm Shops And Packing Rooms
+## Looking After It
 
-Chatham-Kent farms more land than anywhere else in Ontario. Around 630,000 acres, more than 2,400 farms, over 20 million square feet of greenhouse, and roughly one and a third billion dollars a year coming off it.
+Sweeping or dust mopping is most of the job, because grit ground underfoot is what actually wears a coated floor. Beyond that it wants warm water and a neutral cleaner, and nothing harsh, which will dull the clear coat over time.
 
-That produces buildings ordinary garage work does not cover.
+In winter, wipe road salt off rather than letting it dry on the surface. The coating will take it either way, but the residue holds moisture against the floor and gets walked into the house. Put a pad under a jack stand or a heavy leg, since point loading rather than overall weight is what dents resin, and keep hot ashes and hot exhaust parts off it.
 
-Equipment shops need a floor that takes a loaded tractor tyre and does not lift when diesel and hydraulic oil sit on it.
-
-Packing and grading rooms need a floor that gets washed daily, drains properly and does not hold anything in a joint.
-
-Greenhouse headhouses need a floor that survives constant water, fertiliser salts and pallet traffic.
-
-Chemical and fertiliser stores need a coating chosen against what is actually on the shelf.
-
-We build those differently to a garage: different resin, different thickness, coving into the walls where a floor gets hosed, and aggregate through the top coat wherever it is going to be wet and busy.
-
-## Colour, Chip Blends And Gloss Level
-
-Greys are the most common choice and they take the light in a garage well.
-
-Tans and warm browns hide the dirt best. If your lane is gravel rather than asphalt, which plenty are outside town, this matters more than the colour you like on a chart.
-
-Blue and black blends look sharp and show dust faster. Fine in a basement, less forgiving in a working shop.
-
-Flake size does more to the finished look than colour does. Big chip gives you a definite pattern; small chip almost disappears into a texture. Come and see both at full size before you decide.
-
-Gloss is a choice too. Full gloss is brightest and shows every mark. A satin finish is easier to live with. A matte finish with grit through it is the safest underfoot when wet.
-
-## Looking After The Floor Once It Is Down
-
-Sweep or dust mop it. Most of what damages a coated floor is grit being ground into it underfoot.
-
-Wash it with warm water and a neutral cleaner. Skip anything harsh, which will dull the clear coat over time.
-
-Wipe road salt off in winter rather than letting it dry on. The coating will take it, but the residue holds moisture against the surface and gets tracked through the house.
-
-Put something under a jack stand or a heavy leg. Point loading is what dents a resin floor, not weight spread over a tyre.
-
-Do not drop hot ashes or a hot exhaust component straight onto it.
-
-Have a look at the tyre track areas once a year. That is where the clear coat goes first, and catching it early means a recoat rather than a rebuild.
+Once a year, have a look at the wheel tracks. That is where the clear coat goes first, and catching it early is the difference between a recoat and a rebuild.
 
 ## Why Coatings Fail
 
-The failures we get called out to nearly always trace back to one of six causes.
+Nearly every failed floor we get called out to comes down to one of six things, and they are worth knowing before you buy.
 
-Somebody etched the slab rather than grinding it, the coating never really bonded, and it is coming away in sheets.
+The slab was etched instead of ground, so the coating never keyed in and is now lifting in sheets. Or the slab was wet and nobody tested it, so vapour from below has pushed the floor off in blisters. Or the system was too thin, usually a kit, and the tyres have taken it off where they sit.
 
-The slab was wet and nobody tested it, so vapour from below has pushed the coating off in blisters.
-
-The system was too thin, usually a kit, and the tyres have taken it off at the contact patch.
-
-Something was coated over the top of a coating that was already failing, so the new work is only as attached as the old work was.
-
-The floor was driven on before it had cured, and the tyre lifted the surface where it was still soft.
-
-Or a clear epoxy was used somewhere daylight reaches it, and it has gone yellow. That is a property of the resin, not a defect, and a UV-stable polyaspartic top coat avoids it.
+The other three are just as common. Something was coated over the top of a floor that was already failing, so the new work is only as well attached as the old work was. The floor was driven on before it had cured, and a tyre lifted the surface while it was still soft. Or a clear epoxy was used somewhere daylight reaches it and has gone yellow, which is the resin behaving normally rather than a defect, and is avoided entirely by putting a UV-stable polyaspartic on top.
 
 ## Serving Chatham-Kent
 
-Chatham-Kent amalgamated in 1998. The old City of Chatham and every town, village and township in Kent County became one municipality, so the places people name are communities within it rather than separate towns.
+Chatham-Kent amalgamated in 1998, when the old City of Chatham and every town, village and township in Kent County became a single municipality. So the places people name are communities inside it rather than separate towns, and we cover all of them.
 
-We cover all of it.
+That means Chatham itself, out along Grand Avenue and Keil Drive, up St. Clair Street, through the older streets near the Thames and the newer subdivisions on the edges. It means Wallaceburg, Dresden, Thamesville and Bothwell to the north and east, Blenheim, Ridgetown, Highgate and the Rondeau shoreline to the south, and Tilbury, Merlin, Wheatley and Pain Court out to the west.
 
-Chatham itself, out along Grand Avenue and Keil Drive, up St. Clair Street, through the older streets near the Thames and the newer subdivisions on the edges.
-
-Wallaceburg, Dresden, Thamesville and Bothwell to the north and east.
-
-Blenheim, Ridgetown, Highgate and the Rondeau shoreline to the south.
-
-Tilbury, Merlin, Wheatley and Pain Court to the west.
-
-And every concession road, farm lane and shop in between. Nothing in Chatham-Kent is far enough away to be a problem.
+It also means every concession road, farm lane and shop in between. Nothing in Chatham-Kent is far enough away to be a problem.
 
 ## Frequently Asked Questions
 
 ### Why do you test the slab before quoting?
 
-Because this is drained clay country and a wet slab will push a coating off from underneath no matter how well the top was prepared. The reading decides which primer we use, and occasionally it decides whether we take the job. It costs you nothing and it happens before there is a price.
+Because this is drained clay country, and a wet slab will push a coating off from underneath no matter how well the top was prepared. The reading decides which primer we use, and occasionally it decides whether we take the job at all. It costs you nothing and it happens before there is a price.
 
 ### My garage floor is stained with oil. Is it too far gone?
 
-Usually not. Oil sits in the top few millimetres and grinding takes that layer away. Deeper contamination gets cut out and patched. We will know once we have opened a patch of it up, and if it cannot be saved we will say so.
+Usually not. Oil tends to sit in the top few millimetres and grinding takes that layer away, while anything deeper gets cut out and patched. We will know once we have opened up a patch of it, and if it genuinely cannot be saved we will say so.
 
 ### Can you coat a floor with a drain in it?
 
-Yes, and it is common in farm and packing buildings. The coating is taken into the drain surround and coved up the wall so there is no joint at floor level for water to sit in. Falls to the drain get checked before we start, because a coating will not fix a floor that does not drain.
+Yes, and it is routine in farm buildings and packing rooms. The coating is carried into the drain surround and coved up the wall so there is no joint at floor level for water to sit in. We do check the falls first, because a coating follows whatever shape is underneath it and will not fix a floor that does not drain.
 
 ### How soon can I put the car back?
 
-Foot traffic is usually next day. Vehicles are longer, and how much longer depends on the resin and the temperature in the building. You get both dates in writing before we start.
+Foot traffic is normally fine the next day. Vehicles take longer, and exactly how much longer depends on the resin and the temperature in the building. You get both dates in writing before we start.
 
 ### Do you work outside Chatham?
 
-We work everywhere in Chatham-Kent, which covers a lot of ground. Wallaceburg to Ridgetown is most of an hour. That is our area and we do not go beyond it, which is why we can turn up when we said we would.
+We work everywhere in Chatham-Kent, which covers a lot of ground: Wallaceburg down to Ridgetown is the best part of an hour. That is our area and we do not go beyond it, which is why we can turn up on the day we said we would.
 
 ---
 
@@ -244,49 +176,31 @@ We work everywhere in Chatham-Kent, which covers a lot of ground. Wallaceburg to
 
 # Flake Epoxy Flooring In Chatham, Ontario
 
-## What A Flake System Actually Is
+## What A Flake Floor Actually Is
 
-A flake floor is three layers doing three jobs. A pigmented resin base, vinyl chip thrown into it before it sets, and a clear wear coat rolled over the whole thing once the chip layer has gone hard.
+A flake floor is three layers doing three different jobs. A pigmented resin base goes down first, coloured vinyl chip is thrown into it while it is still wet, and once that has hardened a clear wear coat is rolled over the whole thing.
 
-The chip is doing structural work, not decoration. It puts genuine body into the middle of the build, and it leaves the top slightly broken up, which is what stops a wet boot sliding on it.
+The chip is not there to look pretty, or at least not only for that. It puts real body into the middle of the build, and it leaves the surface slightly broken up so a wet boot has something to grip rather than sliding. It also swallows the marks a working floor picks up. Scuffs, rubber and dust disappear into the pattern, where on a plain colour you would be looking at every one of them within a fortnight.
 
-It also buries the marks a floor in use picks up. Scuffs, rubber and dust vanish into the pattern. Put the same marks on a plain colour and you will be looking at them inside a fortnight.
+## How We Build It
 
-## The Build, Step By Step
+The slab is diamond ground first, then cracks and spalled areas are cut out and filled. A moisture reading is taken before a single pail is opened. A primer follows, chosen to suit whatever that reading told us.
 
-The slab is diamond ground first and any cracks or spalled areas are cut out and filled. We take a moisture reading before anything gets mixed.
+Then the base goes on, and chip goes in until the wet resin will physically not accept another flake. That is the whole trick, and it is where cheap jobs cut corners. Load it to that point and the colour comes out flat and even across the entire room; go light on it and you end up with patches. Once cured, the excess is scraped back and vacuumed off and the surface is brought flat again before a clear polyaspartic wear coat finishes it, laid once or twice over according to the spec.
 
-A primer follows, selected to match what that reading told us.
+## Choosing A Blend
 
-Base coat on, then chip in until the resin physically will not hold another flake. That is the whole trick. Load it to that point and the colour is flat and even from wall to wall. Go light on it and you get patches.
+Greys and grey-blues suit the light in a garage and are the most common thing we lay. Warm browns and tans do the best job of hiding tracked-in dirt, which counts for a lot at the end of a gravel lane, and plenty of properties outside town have one. Darker and bolder blends earn their place in a room people actually sit in, like a finished lower level, more than in a bay you park in.
 
-Once cured, the excess is scraped back and vacuumed and the surface is brought flat.
+Chip size shifts the finished look further than colour does. Coarse chip gives you a defined pattern and fine chip reads closer to a texture, so we lay both out at full size before you commit rather than asking you to pick off a sample card.
 
-A clear polyaspartic wear coat finishes it, in one or two passes according to the spec.
+## Where It Works Best
 
-## Picking A Blend
-
-Greys and grey-blues suit garage light and are the most common choice.
-
-Warm browns and tans hide tracked dirt better than anything else. Worth knowing on a gravel lane, and plenty of properties outside Chatham have one.
-
-Darker, louder blends earn their place in a room people sit in rather than park in. A finished lower level, say.
-
-Chip size shifts the finished look further than the colour does. Coarse chip gives a defined pattern, fine chip reads closer to a texture. We will lay both out full size so you are not choosing off a card.
-
-## Where Flake Belongs
-
-Garages first. It is the default build here.
-
-Basements, assuming the slab reads dry enough.
-
-Workshops, mud rooms, laundry rooms and enclosed porches.
-
-Farm shop offices and any commercial floor where a solid colour would look tired in a month.
+Garages first, since it is the default build around here, and basements once the slab has passed its moisture test. Beyond that it goes into workshops, mud rooms, laundry rooms and enclosed porches, and it works well in farm shop offices or any commercial floor where a plain colour would look tired inside a month.
 
 ## Price A Flake Build
 
-Give us the room and a rough square footage. Ring +1 226-457-4250, we will come out with a tape, and the chip blend, the layer build and the cure dates come back to you in writing.
+Give us the room and a rough square footage. Ring +1 226-457-4250 and we will come out with a tape, then send the chip blend, the layer build and the cure dates back to you in writing.
 
 ---
 
@@ -294,43 +208,29 @@ Give us the room and a rough square footage. Ring +1 226-457-4250, we will come 
 
 # Garage Floor Coating In Chatham, Ontario
 
-## What A Garage Slab Is Up Against
+## What Your Garage Slab Is Up Against
 
-A garage floor in Chatham-Kent takes a beating that has nothing to do with how carefully you park.
+A garage floor around here takes a beating that has very little to do with how carefully you park.
 
-Salt comes off the vehicle in solution all winter and puddles at the door line and under the wheel arches. Bare concrete drinks it.
+Salt comes off the vehicle in solution all winter and puddles at the door line and under the wheel arches, and bare concrete drinks it straight in. On top of that the slab crosses freezing and comes back day after day from December through March, and water sitting in the pores expands every single time. That cycle is what pits and flakes an uncoated garage floor. Then there is everything else a garage collects: dropped tools, jack stands, oil, fuel and grit ground in underfoot.
 
-The slab crosses freezing and comes back, day after day, from December through March. Water in the pores expands each time. That is what pits and flakes an uncoated garage floor.
-
-Then there is everything else: dropped tools, jack stands, oil, fuel, grit ground in underfoot.
-
-A coating turns that surface into a sealed one. The salt stays on top where it can be wiped off, water cannot get into the pores to freeze in them, and the fluids sit there until you deal with them.
+Coating it turns that open surface into a sealed one. Salt stays on top where it can be wiped off, water cannot get into the pores to freeze in them, and spills sit there until you deal with them.
 
 ## What We Put Down
 
-Most garages here get a flake build. Base coat, chip broadcast to refusal, clear polyaspartic over the top.
+Most garages here get a flake build: base coat, chip broadcast into it to refusal, then a clear polyaspartic over the top. The grip matters more than people expect, because a garage floor is wet for a good part of the year from melt off the vehicle alone, and a smooth gloss floor in a working garage is a hazard rather than a feature.
 
-The grip matters. A garage floor is wet for a good part of the year, from melt off the vehicle if nothing else, and a smooth gloss floor in a working garage is a hazard.
-
-We take the coating right up to the door line and finish it square to the track, because the door line is where the salt sits and it is the first place a floor that stops short starts failing.
-
-Where there is a step, a landing or a service door threshold, that gets coated too.
+We take the coating right up to the door line and finish it square to the track. That is deliberate. The door line is exactly where salt and meltwater collect, and a floor that stops a foot short is a floor that starts failing there first. Steps, landings and service door thresholds get coated too.
 
 ## Preparation Is Most Of The Work
 
-The slab is ground with diamond tooling, never acid etched.
+The slab is ground with diamond tooling, never acid etched. Cracks get cut out and filled, spalled patches are rebuilt, and oil contamination is ground out or, where it has gone deep, cut out entirely. We vacuum continuously while grinding so the dust stays in the machine instead of drifting into the house.
 
-Cracks get cut out and filled. Spalled patches get rebuilt. Oil contamination gets ground out, and if it has gone deep, cut out.
-
-We vacuum continuously while grinding so the dust stays in the machine rather than in the house.
-
-And we take a moisture reading before we price it. Garage slabs here sit on heavy clay that holds water against them, and a slab that tests wet needs a different primer than one that does not.
+We also take a moisture reading before pricing it. Garage slabs in Chatham-Kent sit on heavy clay that holds water against the underside of the concrete, and a slab that reads wet needs a different primer to one that reads dry.
 
 ## Timing
 
-Walking on it is usually fine the following day.
-
-Vehicles wait longer. How much longer depends on the resin and the temperature in the garage, and in January that is a real variable rather than a formality. We measure the slab, not the air, and we give you the date in writing before we start.
+Foot traffic is normally fine the next day. Vehicles wait longer, and in January that is a real variable rather than a formality, since we work to the temperature of the slab rather than the air. Whatever the date turns out to be, it is in writing before we start.
 
 ## Book A Garage Floor
 
@@ -344,39 +244,29 @@ One bay or four. Call +1 226-457-4250 for a written quote setting out the build,
 
 ## Why The Chemistry Is Different
 
-Polyaspartic is a different resin family to epoxy, and it solves two problems epoxy has.
+Polyaspartic is a different family of resin to epoxy, and it solves two problems epoxy has.
 
-It cures in cold that stops epoxy dead. Epoxy needs about ten degrees in the concrete or it stalls and cures badly. Polyaspartic keeps going well below that, which is what makes winter work possible here rather than theoretical.
+The first is cold. Epoxy wants around ten degrees in the slab and will stall or cure badly below that, while polyaspartic keeps going well under it, which is what makes winter work genuinely possible here instead of theoretical. The second is sunlight. Clear epoxy ambers wherever daylight reaches it, which is the resin doing exactly what that resin does rather than a defect, but it looks like a defect on a floor beside a window or inside an open garage door. Polyaspartic is UV stable and stays clear.
 
-And it does not yellow. Clear epoxy ambers where daylight reaches it. That is the resin doing what that resin does, not a defect, but it looks like a defect on a floor by a window or inside an open garage door. Polyaspartic is UV stable and stays clear.
-
-It also goes off much faster, which shortens the job and gets you back in sooner.
+It also goes off far faster, which shortens the job and gets you back into the room sooner.
 
 ## Where We Specify It
 
-As the clear wear layer over almost every flake floor we install, whatever the base coat is.
-
-As the full build on any floor that gets daylight: an open garage, a sunroom, a three season porch, a shop with roll-up doors.
-
-On winter work, where an epoxy build would depend on weather we cannot promise.
-
-Wherever downtime is the expensive part, like a shop that cannot be shut for a week.
+It goes on as the clear wear layer over almost every flake floor we install, whatever the base coat underneath is. As a full build it makes sense on any floor that gets daylight, so open garages, sunrooms, enclosed porches and shops with roll-up doors. It is also what we reach for on winter work, where an epoxy build would depend on weather nobody can promise, and on jobs where downtime is the expensive part and a shop cannot be closed for a week.
 
 ## What It Costs Against Epoxy
 
-More per square foot. Across Ontario polyaspartic runs roughly six to twelve dollars a square foot installed, against roughly five to nine for epoxy.
+More per square foot. Across Ontario polyaspartic runs roughly $6 to $12 installed against roughly $5 to $9 for epoxy, and what you are buying with the difference is speed, cold tolerance and UV stability.
 
-You are buying speed, cold tolerance and UV stability. On a heated basement that never sees daylight, epoxy does the same job for less. On a garage with the door open half the year, the polyaspartic is the one that still looks right in five years.
+That is not always worth paying for. On a heated basement that never sees daylight, epoxy does the same job for less money. On a garage with the door open half the year, the polyaspartic is the one still looking right in five years.
 
-## The Trade Off Worth Knowing
+## The Trade-Off Worth Knowing
 
-Polyaspartic gives you a much shorter working window. It is going off while it is being applied, so it wants people who have laid a lot of it and a plan for the room before anyone opens a tin.
-
-That is a reason to be careful who lays it. It is not a reason to avoid it.
+Polyaspartic gives a much shorter working window. It is already curing while it is being applied, which means it wants people who have laid a lot of it and a clear plan for the room before anyone opens a tin. That is a good reason to be careful who lays it. It is not a reason to avoid it.
 
 ## Ask About A Polyaspartic Build
 
-Call +1 226-457-4250 and tell us what the floor is and when you need it back. We will tell you honestly whether the faster resin is worth the difference on your job.
+Call +1 226-457-4250 and tell us what the floor is and when you need it back. We will tell you honestly whether the faster resin earns its money on your job.
 
 ---
 
@@ -384,45 +274,23 @@ Call +1 226-457-4250 and tell us what the floor is and when you need it back. We
 
 # Basement Floor Coating In Chatham, Ontario
 
-## Basements Here Need Testing First
+## Basements Here Get Tested First
 
-A basement floor is the easiest room in the house to coat and the easiest one to get wrong, and in Chatham-Kent it is the moisture that decides which.
+A basement is the easiest room in the house to coat and the easiest one to get wrong, and in Chatham-Kent it is moisture that decides which of the two you end up with.
 
-The slab is sitting in heavy clay on flat, drained land. Clay holds water against concrete instead of letting it move away. Concrete wicks that water upward. If it arrives under a sealed coating, it lifts it.
-
-So a basement slab gets tested before we quote it, every time. The reading tells us which primer the floor needs, or whether it needs a moisture barrier build, or occasionally that the floor needs a drainage problem solved before any coating goes near it.
-
-Slightly damp is usually workable. We just have to know.
+The slab sits in heavy clay on flat, drained land, and clay holds water against concrete instead of letting it move away. The concrete wicks that water upward, and if it arrives underneath a sealed coating it lifts it. So every basement slab gets a reading before we quote it. That number tells us which primer the floor needs, or whether it wants a moisture barrier build, or occasionally that there is a drainage problem to solve before any coating goes near it. Slightly damp is usually workable. We just have to know about it first.
 
 ## What Changes Down There
 
-A basement floor is walked on rather than driven on, so the wear layer can be lighter than a garage build.
-
-It is a living space more often than not, so colour and finish matter more.
-
-Light matters. Basements are dim and a light floor throws what light there is back up. It is the cheapest brightening you can do to a lower level.
-
-And a coated slab stops the concrete dust, which is the thing people notice first once it is gone.
+A basement floor is walked on rather than driven on, so the wear layer can be lighter than a garage build. It is usually living space too, which means colour and finish carry more weight than they do in a bay. Light matters most of all: basements are dim by nature, and a pale floor throws whatever light there is back up, which is the cheapest way there is to brighten a lower level. Sealing the slab also stops the concrete dust, and that is the change people tend to notice first.
 
 ## Rooms We Coat
 
-Finished lower levels and family rooms.
-
-Home gyms, which is the one we get asked for most. A resin floor takes rubber matting, dropped weights and sweat and cleans off properly afterwards.
-
-Laundry and utility rooms, where a sealed floor around a washer is worth having.
-
-Workshops and storage areas.
-
-Unfinished basements where the aim is simply a clean, sealed, brighter floor.
+Finished lower levels and family rooms, and home gyms most of all, since a resin floor takes rubber matting, dropped weights and sweat and cleans off properly afterwards. Beyond that it goes into laundry and utility rooms where a sealed floor around a washer is worth having, workshops, storage areas, and plenty of unfinished basements where the whole aim is simply a clean, bright, sealed slab.
 
 ## Around The Furnace And The Drain
 
-We coat right around mechanical equipment rather than stopping short of it in a neat rectangle, because the gap is where the dust comes back.
-
-Floor drains get the coating taken into the surround and coved so there is no joint at floor level.
-
-Where there is a sump, we work around it and seal the edge.
+We coat right around mechanical equipment rather than stopping short in a neat rectangle, because the gap you leave is where the dust comes back. Floor drains get the coating carried into the surround and coved so there is no joint sitting at floor level, and where there is a sump we work around it and seal the edge properly.
 
 ## Get The Basement Tested
 
@@ -436,45 +304,27 @@ The moisture reading costs nothing and it happens before there is a price. Call 
 
 ## Sealing Concrete, Whatever The Room
 
-Not every floor is a garage. Plenty of what we coat is simply concrete that needs to stop being bare: a shop floor, a mechanical room, a storage building, a landing, a lane-side pad.
+Not every job is a garage. A good deal of what we coat is simply concrete that needs to stop being bare: a shop floor, a mechanical room, a storage building, a landing, a pad beside the lane.
 
-The problem does not change from room to room. Concrete is open and it is dusty. It takes in whatever lands on it, and it keeps shedding powder onto everything nearby.
-
-Sealing it fixes both at once.
+The problem is the same everywhere. Concrete is open and dusty. It absorbs whatever lands on it and it keeps shedding fine powder onto everything nearby. Sealing it deals with both at once.
 
 ## Reading The Slab
 
-Concrete varies more than people expect, and old concrete varies most.
+Concrete varies far more than people expect, and old concrete varies most of all. A troweled slab has a dense closed skin that has to come off before anything will stick to it. An older slab may be soft at the surface, carry previous coatings, or still have adhesive on it from tile or carpet. And a slab poured low on this kind of ground may well be carrying vapour up from underneath.
 
-A troweled slab has a dense closed skin that has to be ground off before anything will stick.
-
-An older slab may be soft at the surface, carry previous coatings, or have adhesive left from tile or carpet.
-
-A slab poured in a low building on this kind of ground may be carrying vapour from below.
-
-We grind a test patch and take a moisture reading before quoting, so what you get is a price against your floor rather than an average.
+So we grind a test patch and take a moisture reading before quoting, which means the number you get is priced against your actual floor rather than an average.
 
 ## Choosing The Build
 
-Light duty, walked on, indoors: a straightforward sealed build in a solid colour.
-
-Vehicles, or anything with a point load: a thicker build with a harder wear layer.
-
-Wet or washed down: aggregate through the top coat for grip, and coving up the wall so there is no joint to hold water.
-
-Chemical exposure: the resin gets chosen against what is actually on the shelf, which is a conversation rather than a catalogue.
+Something walked on indoors takes a straightforward sealed build in a solid colour. Anything carrying vehicles or point loads wants more thickness and a harder wear layer. A floor that gets washed down needs aggregate through the top coat for grip and coving up the wall so there is no joint holding water, and where there is chemical exposure the resin gets chosen against what is genuinely on the shelf, which is a conversation rather than a catalogue.
 
 ## Repairs Come First
 
-Cracks get cut out and filled properly rather than skimmed over. A crack that has moved once will move again, and a coating bridged over it splits.
-
-Spalled and pitted areas are rebuilt to level.
-
-Low spots that hold water are filled, because a coating follows the shape of what is underneath it and will not fix a fall.
+Cracks are cut out and filled properly rather than skimmed over, because a crack that has moved once will move again and a coating simply bridged across it splits. Spalled and pitted areas get rebuilt to level, and low spots that hold water are filled, since a coating follows the shape of whatever is underneath it and will never fix a bad fall on its own.
 
 ## Price A Concrete Floor
 
-Tell us the size, what happens on it, and what is on it now. Call +1 226-457-4250 and we will grind a patch, read the slab and quote against what we find.
+Tell us the size, what happens on it and what is on it now. Call +1 226-457-4250 and we will grind a patch, read the slab and quote against what we find.
 
 ---
 
@@ -484,43 +334,27 @@ Tell us the size, what happens on it, and what is on it now. Call +1 226-457-425
 
 ## Floors That Have To Stay Open
 
-A commercial floor has a different problem to a domestic one. It is not that the work is harder. It is that the room has to be back in use on a date you can plan around.
+A commercial floor has a different problem to a domestic one, and it is not that the work is harder. It is that the room has to be back in use on a date you can plan a business around.
 
-That drives the whole specification. Resin choice, how the floor gets sectioned, when we work.
-
-We schedule commercial jobs around your hours rather than ours. Evenings, weekends, or half the floor at a time so the business keeps running while the other half cures.
+That drives the whole specification: which resin gets used, how the floor is sectioned and when we work. We schedule commercial jobs around your hours rather than ours, which usually means evenings, weekends, or taking half the floor at a time so the business keeps running while the other half cures.
 
 ## Where We Work
 
-Shops and showrooms, where what is underfoot is part of what a customer registers.
-
-Auto shops, tyre bays and service floors, where oil and point loading decide the build.
-
-Restaurant kitchens and back-of-house, where it gets washed and has to drain.
-
-Clinics, salons and studios, where it has to clean properly and look right.
-
-Storage and stockrooms behind all of the above.
+Shops and showrooms, where what is underfoot is part of what a customer registers. Auto shops, tyre bays and service floors, where oil and point loading decide the build. Restaurant kitchens and back-of-house, which get washed and have to drain. Clinics, salons and studios that need a floor that cleans properly and still looks right. And the storage and stock rooms behind all of them.
 
 ## Specifying It Properly
 
-Traffic type comes first. Foot traffic, pallet trucks, forklifts and vehicles are four different specifications, not one with options.
+Traffic comes first, because foot traffic, pallet trucks, forklifts and vehicles are four different specifications rather than one with options. Cleaning comes next: a floor that gets hosed needs coving up the wall and falls that genuinely work, while one that gets dust mopped does not.
 
-Then cleaning. A floor that gets hosed needs coving up the wall and falls that actually work. A floor that gets dust mopped does not.
-
-Then grip. Anywhere that gets wet needs aggregate through the top coat, and there is a real trade-off between grip and how easy the floor is to clean. We would rather have that conversation than guess.
-
-Then marking. Aisles, bays, walkways and hazard edges get laid out before anything goes down, because adding them afterwards means coating twice.
+Then grip. Anywhere that gets wet wants aggregate through the top coat, and there is a real trade-off between how grippy a floor is and how easily it cleans, which we would rather talk through than guess at. Finally there is marking. Aisles, bays, walkways and hazard edges are laid out before anything goes down, because adding them afterwards means coating the floor twice.
 
 ## What You Get In Writing
 
-The build, layer by layer. The cure times, foot and full. The colour and any line marking. The dates, including which sections are closed when.
-
-You should be able to hold that against another quote and see exactly where they differ.
+The build layer by layer, the cure times for foot and full traffic, the colour and any line marking, and the dates, including which sections are closed when. You should be able to hold that against another quote and see immediately where the two differ.
 
 ## Get A Commercial Floor Quoted
 
-Call +1 226-457-4250. We will walk the space, look at what the floor is doing now, and quote against your opening hours rather than around them.
+Call +1 226-457-4250. We will walk the space, look at what the floor is doing now, and quote around your opening hours rather than through them.
 
 ---
 
@@ -532,45 +366,31 @@ Call +1 226-457-4250. We will walk the space, look at what the floor is doing no
 
 An industrial floor is specified against weight and wear, and everything else follows from that.
 
-A forklift puts several tonnes through four small patches of rubber. A loaded pallet truck grinds the same line hundreds of times a week. Both will find any weakness in the bond between resin and concrete, and they will find it fast.
-
-So the build goes thicker, the wear layer goes harder, and the preparation goes deeper than it does on a garage.
+A forklift puts several tonnes through four small patches of rubber, and a loaded pallet truck grinds along the same line hundreds of times a week. Both will find any weakness in the bond between resin and concrete, and they will find it quickly. So the build goes thicker, the wear layer goes harder, and the preparation goes deeper than it ever does on a garage.
 
 ## Getting The Preparation Right
 
-Industrial slabs are usually old, usually large, and usually carrying history.
+Industrial slabs tend to be old, large and carrying history. Previous coatings come off rather than get covered over, because a new system is only ever as well attached as the layer beneath it. Oil that has soaked in over years is ground out, and where it has gone right through, cut out and rebuilt.
 
-Previous coatings come off rather than get covered. A new system is only ever as attached as the layer beneath it.
-
-Oil that has soaked in over years gets ground out, and where it has gone right through it gets cut out and rebuilt.
-
-Joints get treated properly. A slab this size moves, and a joint filled with the wrong thing splits the coating along its length.
-
-We grind in sections and vacuum as we go, so the plant either side of us keeps running.
+Joints get treated properly too. A slab this size moves, and a joint filled with the wrong material will split the coating along its whole length. We grind in sections and vacuum as we go so the rest of the building keeps working around us.
 
 ## Line Marking And Zones
 
-Marking is laid out before any resin goes down, because retrofitting it means coating twice.
+Marking is laid out before any resin goes down, because retrofitting it means coating the floor a second time. That covers aisles and traffic lanes, pedestrian walkways in a contrasting colour, racking footprints, loading and staging bays, and hazard edges at docks and steps.
 
-Aisles and traffic lanes. Pedestrian walkways in a contrasting colour. Racking footprints. Loading and staging bays. Hazard edges at docks and steps.
-
-Getting it right first time is a specification exercise, so we walk the floor with whoever runs it before we quote.
+Getting it right the first time is a planning exercise rather than a painting one, so we walk the floor with whoever actually runs it before we quote.
 
 ## Grip Where It Is Wet
 
-A smooth industrial floor is fine dry and dangerous wet.
-
-Where there is washdown, condensation at a dock door, or anything that spills, we carry aggregate through the top coat. It costs a little more cleaning effort and it is worth it.
+A smooth industrial floor is fine dry and genuinely dangerous wet. Wherever there is washdown, condensation at a dock door or anything that spills, we carry aggregate through the top coat. It costs a little more effort to clean and it is worth it every time.
 
 ## Phasing It
 
-Almost nobody can close a whole building. We section the floor, coat in phases, and work around production and shift patterns. Nights and weekends are normal for this work.
-
-The phasing plan is part of the quote, not something we work out on the day.
+Almost nobody can close a whole building, so we section the floor, coat it in phases and work around production and shift patterns. Nights and weekends are normal on this kind of job, and the phasing plan is part of the quote rather than something worked out on the day.
 
 ## Quote An Industrial Floor
 
-Square footage, traffic type and whether it gets washed down. That is enough to start. Call +1 226-457-4250.
+Square footage, traffic type and whether it gets washed down is enough to start. Call +1 226-457-4250.
 
 ---
 
@@ -580,47 +400,25 @@ Square footage, traffic type and whether it gets washed down. That is enough to 
 
 ## Farm Floors Are Their Own Problem
 
-Chatham-Kent farms more ground than any other municipality in Ontario. Roughly 630,000 acres, more than 2,400 farms, over 20 million square feet of greenhouse and something like one and a third billion dollars a year in farm cash receipts.
-
-The buildings that go with that are not garages and they are not warehouses. They are their own thing, and they get their own specification.
+Chatham-Kent farms more ground than any other municipality in Ontario, with roughly 630,000 acres, more than 2,400 farms and over 20 million square feet of greenhouse behind something like $1.3 billion a year in farm cash receipts. The buildings that go with all that are not garages and they are not warehouses, and they get their own specification.
 
 ## What The Buildings Have To Take
 
-Equipment shops take a loaded tractor or combine tyre, which behaves nothing like a car tyre. Diesel, hydraulic oil and grease sit on the floor between washes. The doors are open, so the slab sees outside temperatures for most of the year.
+An equipment shop takes a loaded tractor or combine tyre, which behaves nothing like a car tyre, and it sits with diesel, hydraulic oil and grease on the floor between washes. The doors are open most of the year, so the slab lives at close to outside temperature.
 
-Fertiliser and chemical stores hold things that will attack the wrong resin. The build gets chosen against what is actually stored, not against a general-purpose spec.
-
-Greenhouse headhouses and potting areas are wet constantly, carry fertiliser salts, and take pallet traffic all day.
-
-Livestock areas need a floor that can be washed hard and holds nothing in a joint.
-
-Grain and commodity buildings need a sealed slab that does not dust and does not absorb.
+Fertiliser and chemical stores hold things that will attack the wrong resin, so the build gets chosen against what is genuinely stored rather than against a general-purpose spec. Greenhouse headhouses and potting areas are wet more or less constantly, carry fertiliser salts and take pallet traffic all day. Livestock areas need a floor that can be washed hard and holds nothing in a joint, and grain and commodity buildings want a sealed slab that neither dusts nor absorbs.
 
 ## How We Build Them
 
-Thicker than a domestic floor, with a harder wear layer.
-
-Aggregate through the top coat anywhere it gets wet, which on a farm is most places.
-
-Coving up the wall wherever the floor gets hosed, so there is no floor-to-wall joint holding water and residue.
-
-Chemical resistance matched to the actual contents of the building.
-
-And a lot of attention to the door line, because that is where an open shop meets the weather.
+Thicker than a domestic floor and with a harder wear layer, aggregate through the top coat anywhere it gets wet, which on a farm is most places, and coving carried up the wall wherever the floor gets hosed so there is no floor-to-wall joint holding water and residue. Chemical resistance is matched to the actual contents of the building, and we pay a lot of attention to the door line, because that is where an open shop meets the weather.
 
 ## The Cold Question
 
-Most farm buildings are unheated or barely heated, and that decides the resin.
-
-Epoxy needs roughly ten degrees in the concrete. An open equipment shop in February is nowhere near that. Polyaspartic will cure far colder, so on unheated buildings that is usually the answer, or we heat the space and work to a slab temperature rather than a calendar date.
-
-We put a thermometer on the concrete. We do not work off the forecast.
+Most farm buildings are unheated or barely heated, and that decides the resin more than anything else does. Epoxy needs around ten degrees in the concrete, and an open equipment shop in February is nowhere near that, while polyaspartic will cure a long way colder. So on unheated buildings polyaspartic is usually the answer, or we heat the space and work to the temperature of the slab rather than a date on the calendar. Either way we put a thermometer on the concrete rather than trusting the forecast.
 
 ## Timing Around The Season
 
-Nobody wants their shop floor closed in the spring or through harvest. The realistic windows here are mid-summer and late autumn, and they book up.
-
-Tell us early and we will hold a date.
+Nobody wants their shop floor closed during spring work or through harvest, so the realistic windows here are mid-summer and late autumn, and they book up. Tell us early and we will hold a date for you.
 
 ## Get A Farm Building Quoted
 
@@ -634,41 +432,27 @@ Building type, rough size, what is stored or worked on in it, and whether it is 
 
 ## Floors That Get Washed Every Day
 
-Chatham-Kent grows, packs and processes a great deal of food, and the floors in those buildings are held to a different standard to anything else we coat.
+Chatham-Kent grows, packs and processes a great deal of food, and the floors in those buildings are held to a standard nothing else we coat has to meet.
 
-They get washed daily, often with hot water and caustic cleaners. They cannot hold anything anywhere. And they have to stay non-slip while wet, because that is the condition they spend most of their working life in.
-
-That is a specification problem before it is a resin problem.
+They get washed daily, often with hot water and caustic cleaners. They cannot hold anything anywhere. And they have to stay non-slip while wet, because wet is the condition they spend most of their working life in. That makes it a specification problem before it is ever a resin problem.
 
 ## What The Build Has To Do
 
-Be seamless. Every joint is somewhere residue can sit, so the aim is a floor with as few of them as physically possible.
+It has to be seamless, because every joint is somewhere residue can sit, so the aim is a floor with as few of them as is physically possible. It has to cove up the wall, which removes the floor-to-wall joint entirely and lets a hose take everything to the drain instead of into a corner. And it has to fall to that drain properly, since a coating follows the shape underneath it and a floor that does not currently drain gets corrected during preparation rather than papered over.
 
-Cove up the wall. A coved skirting removes the floor-to-wall joint entirely and lets a hose take everything to the drain instead of into a corner.
-
-Fall to the drain properly. A coating follows the shape underneath it. If the floor does not currently drain, that gets corrected during preparation, not papered over.
-
-Resist thermal shock. Hot washdown onto a cold slab moves the coating and the concrete at different rates, and a build that has not allowed for it debonds.
-
-Resist the cleaning chemistry, not just the food.
-
-Stay grippy wet. Aggregate is carried through the top coat, graded to the room. Too fine and it is slippery, too coarse and nobody can clean it.
+It also has to survive thermal shock. Hot washdown onto a cold slab moves the coating and the concrete at different rates, and a build that has not allowed for that will debond. On top of all of it, the resin has to resist the cleaning chemistry rather than just the food, and the aggregate carried through the top coat has to be graded to the room: too fine and it is slippery, too coarse and nobody can get it clean.
 
 ## Where This Applies
 
-Packing and grading lines. Cold rooms and coolers. Wash bays. Commercial kitchens and back-of-house. Bottling and canning areas. Greenhouse packing rooms and headhouses.
+Packing and grading lines, cold rooms and coolers, wash bays, commercial kitchens and back-of-house, bottling and canning areas, and greenhouse packing rooms and headhouses.
 
 ## How We Work Around Production
 
-These buildings run to a schedule that cannot move for a floor.
-
-We phase the work, section the room, and work nights, weekends or shutdown windows. Fast-cure resins matter more here than anywhere else, because every hour the room is closed costs something.
-
-The phasing plan goes in the quote with dates against it.
+These buildings run to a schedule that cannot move for a floor, so we phase the work, section the room and work nights, weekends or shutdown windows. Fast-curing resins matter more here than anywhere else, because every hour a room stays closed costs real money, and the phasing plan goes into the quote with dates against it.
 
 ## Talk To Us About A Food Grade Floor
 
-Tell us the room, the wash regime and the shutdown window you have. Call +1 226-457-4250.
+Tell us the room, the wash regime and the shutdown window you have to work inside. Call +1 226-457-4250.
 
 ---
 
@@ -678,45 +462,25 @@ Tell us the room, the wash regime and the shutdown window you have. Call +1 226-
 
 ## Outside Is A Different Specification
 
-An outdoor slab is not an indoor slab that happens to be outside. It has to handle daylight, standing water and a freeze-thaw cycle that runs all winter here, and it has a much shorter installation season.
-
-Use an indoor build outside and it fails in the first spring.
+An outdoor slab is not an indoor slab that happens to be outside. It has to handle daylight, standing water and a freeze-thaw cycle that runs all winter here, and it has a far shorter installation season. Use an indoor build outdoors and it will fail in the first spring.
 
 ## What Changes
 
-The top coat has to be UV stable, or it ambers. Clear epoxy outdoors goes yellow, reliably. Polyaspartic does not, so outdoor work is polyaspartic-topped as standard.
+The top coat has to be UV stable or it ambers, and clear epoxy outdoors goes yellow reliably, so outdoor work is polyaspartic-topped as standard. The surface has to be non-slip while wet, because wet is what a patio is for a good part of the year, so aggregate goes through the top coat.
 
-The surface has to be non-slip while wet, because a wet patio is what a patio is for a good part of the year. Aggregate goes through the top coat.
-
-The build has to move. An outdoor slab expands and contracts a long way further than a heated indoor one. The system has to flex with it rather than crack.
-
-Water has to leave. A slab that ponds will fail at the puddle first, so falls get checked before anything is quoted.
+The build also has to move. An outdoor slab expands and contracts far further than a heated indoor one, and the system has to flex with it rather than crack. And the water has to leave: a slab that ponds will fail at the puddle first, so we check the falls before quoting anything.
 
 ## Where It Works
 
-Covered patios and porches, which are the best outdoor candidates by a distance because they are protected from the worst of it.
-
-Front porch slabs and steps.
-
-Three season rooms and enclosed porches.
-
-Pool surrounds, where the grip specification matters most.
-
-Carport slabs and walkways.
-
-Open, fully exposed patios can be done, and we will be straight with you about the trade-off before you spend the money.
+Covered patios and porches are the best candidates by a distance, simply because they are protected from the worst of it. Beyond those it goes down well on front porch slabs and steps, three season rooms and enclosed porches, pool surrounds where the grip specification matters most, and carport slabs and walkways. Fully exposed open patios can be done, and we will be straight with you about the trade-off before you spend the money.
 
 ## The Season
 
-Outdoor work here runs roughly late spring to early autumn.
-
-That is not a scheduling preference. It is because the concrete has to be dry the whole way through and warm enough to cure, and it has to hold both of those for the length of the cure. A warm afternoon in March does not do it.
-
-Polyaspartic widens the window at both ends. It does not open it in January.
+Outdoor work here runs roughly late spring to early autumn. That is not a scheduling preference. The concrete has to be dry the whole way through and warm enough to cure, and it has to hold both of those for the length of the cure, which a single warm afternoon in March does not deliver. Polyaspartic widens that window at both ends. It does not open it in January.
 
 ## Book An Outdoor Slab
 
-Send a photo of the slab and tell us whether it is covered. That tells us most of what we need. Call +1 226-457-4250.
+Send a photo of the slab and tell us whether it is covered, which tells us most of what we need. Call +1 226-457-4250.
 
 ---
 
@@ -726,43 +490,23 @@ Send a photo of the slab and tell us whether it is covered. That tells us most o
 
 ## When A Floor Is Already Failing
 
-Peeling. Bubbling. Patches lifting where the tyres sit. A clear coat gone yellow by the window. A floor that has gone dull and chalky.
+Peeling. Bubbling. Patches lifting where the tyres sit. A clear coat gone yellow by the window, or a floor that has simply turned dull and chalky.
 
-All of those are fixable. What they are not is paintable-over, and that is the mistake we get called in behind most often.
-
-A new coating is only as attached as whatever it is laid on. Roll fresh resin over a system that is already letting go and you have bought yourself a season.
+All of those are fixable. What none of them are is paintable-over, and that is the mistake we get called in behind more than any other. A new coating is only ever as well attached as whatever it is laid on, so rolling fresh resin over a system that is already letting go buys you a season and no more.
 
 ## Finding Out Why It Failed
 
-We start by working out what went wrong, because the same thing will happen again otherwise.
+We start by working out what went wrong, because otherwise the same thing simply happens again.
 
-Blisters and bubbles usually mean moisture from below. That means a moisture test and, in all likelihood, a vapour-tolerant primer or a barrier build next time.
-
-Sheets lifting cleanly with smooth concrete underneath usually means the slab was acid etched rather than ground, so the coating never keyed in.
-
-Wear only at the tyre tracks usually means the system was too thin. Often a kit.
-
-Yellowing means clear epoxy in daylight. That is the resin being what it is, and a UV stable top coat fixes it.
-
-A powdery, chalky surface usually means the coating is at the end of its life and the wear layer is spent.
+Blisters and bubbles usually mean moisture coming up from below, which means a moisture test and in all likelihood a vapour-tolerant primer or a barrier build next time. Sheets lifting cleanly away with smooth concrete underneath usually means the slab was acid etched rather than ground, so the coating never keyed in at all. Wear showing up only at the wheel tracks usually means the system was too thin, and more often than not it was a kit. Yellowing means clear epoxy somewhere daylight reaches it, which a UV-stable top coat fixes outright. And a powdery, chalky surface generally means the coating has simply reached the end of its life and the wear layer is spent.
 
 ## What The Repair Involves
 
-Everything loose comes off. Mechanically, with grinders and where necessary shot blasting.
-
-Sound coating gets ground to a profile the new build can key into, or removed entirely if it is not sound enough to trust.
-
-The bare slab underneath gets tested for moisture, the same as any new floor.
-
-Cracks, spalls and pitting get repaired properly.
-
-Then a new system goes on, specified against the reason the old one failed rather than against the old one's spec sheet.
+Everything loose comes off mechanically, with grinders and where necessary shot blasting. Sound coating is ground to a profile the new build can key into, or removed altogether if it is not sound enough to trust. The bare slab underneath is then tested for moisture exactly like any new floor, cracks and spalls and pitting are repaired, and a new system goes on specified against the reason the old one failed rather than against the old one's spec sheet.
 
 ## The Cheaper Case
 
-Not every tired floor has to come off. Where the build underneath is still sound and only the top coat has gone, we key the surface back and lay a new clear over it. Far cheaper, and the room is out of action for a fraction of the time.
-
-Which of the two you need is something we can usually tell from a close photograph and confirm on site.
+Not every tired floor has to come off. Where the system beneath is still solid and it is only the top layer that has gone, we key the surface back and lay a fresh clear over it. That costs far less and puts the room out of action for a fraction of the time. Which of the two jobs you are looking at is usually clear from a close photograph and confirmed on site.
 
 ## Send Us A Photo
 
@@ -776,51 +520,29 @@ One good close-up of the worst patch, the rough age of the floor, and whether it
 
 ## A Finish, Not A Workhorse
 
-Metallic is the decorative end of what we do. Metallic pigment is dispersed through a clear resin and then moved while it is wet, so the finished floor has depth and movement in it. It reads more like polished stone than like a coating.
+Metallic is the decorative end of what we do. Metallic pigment is dispersed through clear resin and then moved while it is still wet, so the finished floor ends up with depth and movement running through it and reads closer to polished stone than to a coating.
 
-Every floor comes out different. That is the point of it, and it is also the thing to be comfortable with before you order one, because we cannot show you the exact floor you are going to get.
+Every floor comes out different, which is the whole point of it and also the thing to be comfortable with before ordering one, because nobody can show you the exact floor you are going to get.
 
-## Where It Belongs
+## Where It Belongs, And Where It Does Not
 
-Showrooms and retail spaces where the floor carries part of the look.
+It suits showrooms and retail spaces where the floor is part of what people take in, finished basements and lower level living space, and feature rooms, bars, studios and offices. Occasionally it goes into a display garage, where the car is the point rather than the work.
 
-Finished basements and lower level living space.
-
-Feature rooms, bars, studios and offices.
-
-Occasionally a display garage, where the car is the point rather than the work.
-
-## Where It Does Not
-
-Under a working vehicle. Metallic shows tyre marks and hides nothing.
-
-In a shop, a plant or anywhere with real point loading.
-
-Anywhere that gets washed hard.
-
-Outdoors.
-
-If the floor has a job to do, a flake or a solid colour build will do it better and cost less. We would rather say that now.
+It does not belong under a working vehicle, because metallic shows tyre marks and hides nothing. It has no place in a shop or a plant or anywhere with real point loading, anywhere that gets washed hard, or outdoors. If your floor has a job to do, a flake or solid colour build will do it better and cost less, and we would far rather say that now than take the order.
 
 ## How It Is Installed
 
-Preparation is the same as any other system, and it matters more rather than less. Metallic is usually laid light and there is nowhere for a defect in the slab to hide.
+Preparation is the same as any other system and matters more rather than less, since metallic is usually laid light and there is nowhere for a defect in the slab to hide.
 
-The base coat goes down. The metallic layer is applied over it and then worked while wet with rollers, blowers or a brush, depending on the effect. That working stage is where the pattern comes from and it is entirely a matter of the installer's hand.
-
-Then a clear coat goes over the top. A polyaspartic clear, so it does not yellow.
+The base coat goes down first. The metallic layer is applied over it and then worked while wet with rollers, blowers or a brush depending on the effect, and that working stage is where the pattern comes from, entirely by the installer's hand. A clear coat goes over the top afterwards, and it is a polyaspartic clear so it does not yellow.
 
 ## Cost And Time
 
-Metallic is the dearest build on our list. Decorative metallic across Ontario sits at roughly $8 to $12 a square foot, where a flake system is nearer $6 to $10.
-
-It also takes longer, because the working stage cannot be rushed and the clear coat needs the layer underneath fully cured.
-
-Those are market ranges rather than your price.
+Metallic is the dearest build on our list. Decorative metallic across Ontario runs roughly $8 to $12 a square foot where a flake system sits nearer $6 to $10, and it takes longer as well, because the working stage cannot be rushed and the clear coat needs the layer beneath it fully cured. Those are market ranges rather than your price.
 
 ## Ask About A Metallic Floor
 
-Tell us the room and what it is for. We will be honest about whether it is the right build for it. Call +1 226-457-4250.
+Tell us the room and what it is for, and we will be honest about whether it is the right build for it. Call +1 226-457-4250.
 
 ---
 
@@ -1089,7 +811,7 @@ Diamond ground, never acid etched
 
 Written specification with every quote
 
-Twelve build types
+One person, start to finish
 
 ## Hero Form Heading
 
@@ -1113,7 +835,7 @@ The Systems We Install
 
 ## Services Grid Intro
 
-Twelve builds. Which one your floor gets depends on what it carries and what happens on top of it.
+Which system your floor gets depends on what it has to carry and what happens on top of it. If you are not sure, that is what the visit is for.
 
 ## Other Services Heading
 
@@ -1121,7 +843,7 @@ The Rest Of What We Build
 
 ## Other Services Intro
 
-Farm shops, packing rooms, plants and patios, on top of the garage and basement work.
+Farm shops, packing rooms, plants and patios, alongside the garage and basement work.
 
 ## Gallery Heading
 
@@ -1193,7 +915,7 @@ Floor Systems We Install
 
 ## Services Page Intro
 
-Twelve builds covering domestic garages through to food grade packing rooms. Each one is specified against the load, the cleaning regime and the moisture in the slab.
+Everything from a single garage bay through to a food grade packing room. Each floor is specified against the load it carries, how it gets cleaned and what the moisture reading says.
 
 ## Services Page Grid Heading
 
@@ -1201,7 +923,7 @@ Choose A System
 
 ## Services Page Grid Intro
 
-If none of them obviously fits, send a picture and we will tell you which one you want.
+If none of them obviously fits, send a picture and we will point you at the right one for the job.
 
 ## Services Page CTA Heading
 

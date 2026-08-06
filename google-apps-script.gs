@@ -134,7 +134,7 @@ function appendRow(data) {
     sheet.appendRow(headers);
     sheet.getRange(1, 1, 1, headers.length)
          .setFontWeight('bold')
-         .setBackground('#0d4e8b')
+         .setBackground('#22262c')
          .setFontColor('#ffffff');
     sheet.setFrozenRows(1);
     sheet.setColumnWidth(6, 420);   // give the message column room
@@ -186,7 +186,7 @@ function reply(success, message) {
 function testWrite() {
   appendRow({
     name: 'Test Lead',
-    phone: '226-406-4401',
+    phone: '226-457-4250',
     email: 'test@example.com',
     service: 'Garage Floor Coating',
     message: 'This is a test row. Delete it.',
