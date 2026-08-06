@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Cloudflare / wrangler local state
+.wrangler/
+node_modules/
+
+# Note: the master *.png photos ARE tracked on purpose. They are the
+# originals that build.py --images reworks into site/images/. They are
+# never served to visitors because only site/ is deployed.
+
+# Branded originals - never commit, never deploy.
+# Each of these carries another company's logo on a crew shirt, and in two
+# cases on a resin pail in the foreground. warehouse-industrial-chatham.png
+# is the brand-free crop of warehouse.png that build.py actually uses; the
+# other three have no usable brand-free crop left and are not on this site.
+warehouse.png
+warehouse grey epoxy.png
+blue epoxy spread.png
+grey spready.png
