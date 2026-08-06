@@ -1,255 +1,197 @@
-# Grimsby Epoxy Floors — Website
+# Chatham Epoxy Flooring — Website
 
-Static site for **Grimsby Epoxy Floors**, Grimsby, Ontario. No framework, no build server, no monthly hosting cost.
+Static site for **Chatham Epoxy Flooring**, Chatham, Ontario, covering all of
+Chatham-Kent. No framework, no build server, no monthly hosting cost.
 
 ```
-Grimsby-Epoxy-Floors-Website-Content.md   <- all copy lives here (source of truth)
-build.py                                  <- turns the markdown into the site
-wrangler.toml                             <- Cloudflare deploy config
-site/                                     <- generated output, THIS is what deploys
-*.png                                     <- original photos (tracked, never served)
+Chatham-Epoxy-Flooring-Website-Content.md   <- all copy lives here (source of truth)
+build.py                                    <- turns the markdown into the site
+wrangler.toml                               <- Cloudflare deploy config
+site/                                       <- generated output, THIS is what deploys
+tools/make-logo.py                          <- draws the logo and favicon assets
+*.png                                       <- original photos (tracked, never served)
 ```
+
+20 pages: home, services index, **12 service pages**, about, FAQ, contact,
+privacy policy, terms and a 404. 17 are indexable; privacy, terms and 404 are
+`noindex, follow` and excluded from `sitemap.xml` on purpose.
+
+Initial load on the home page is about 277 KB — two eager images, everything
+else lazy-loaded.
 
 ---
 
-## Do these three things before you go live
+## Still to do before this goes live
 
-### 1. Set your real domain
+### 1. Wire up lead delivery
 
-Open `build.py` and find this line near the top:
-
-```python
-DOMAIN = "https://www.grimsbyepoxyfloors.ca"
-```
-
-Change it to your actual domain, then run `python build.py`. This feeds canonical
-tags, Open Graph tags, `sitemap.xml` and the schema markup. Getting it wrong will
-hurt indexing.
-
-### 2. Deliver leads to a Google Sheet
-
-Every page has an estimate form. **It validates and shows a success message, but
-nothing is delivered until you complete this setup.**
-
-Leads go straight into a Google Sheet you own, via a Google Apps Script web app.
-No third-party form service, no monthly fee, no row limits.
-
-**Create the sheet and script**
+**The forms validate and show a success message, but nothing is delivered
+until this is done.** `SHEET_ENDPOINT` in `site/script.js` is currently the
+placeholder `YOUR-APPS-SCRIPT-EXEC-URL-HERE`.
 
 1. Go to <https://sheets.new>. That URL always creates a *native* Google Sheet.
+   Do not upload an `.xlsx` — uploaded files have no Extensions menu and Apps
+   Script cannot read them. If you see an `.XLSX` badge by the filename, start
+   again.
+2. Name it *Chatham Epoxy Flooring — Leads*.
+3. **Extensions → Apps Script**. Delete the placeholder function, then paste in
+   the whole of `google-apps-script.gs` from this repo.
+4. Set `NOTIFY_EMAIL` if you want an alert per lead.
+5. Run `testWrite` from the function dropdown, approve the permission prompt,
+   confirm a row lands in a **Leads** tab, then delete the test row.
+6. **Deploy → New deployment → Web app**, Execute as **Me**, Who has access
+   **Anyone**. "Anyone" is required — visitors are not signed in to Google.
+   They can only POST in; they cannot read the sheet.
+7. Copy the Web app URL (it ends in `/exec`) into `SHEET_ENDPOINT` in
+   `site/script.js`.
+8. Run `python build.py` again. **This step is not optional** — `_headers`
+   caches JS hard, and without the rebuild the `?v=` fingerprint stays stale
+   and returning visitors keep the old file.
 
-   > Do not upload an Excel file and use that. Uploaded `.xlsx` files open in a
-   > compatibility mode with **no Extensions menu**, and Apps Script cannot read
-   > them at all. If you see a small `.XLSX` badge beside the filename, you are
-   > in the wrong kind of file — start again at sheets.new.
+Apps Script sends mail as whichever Google account authorised it, regardless of
+`NOTIFY_EMAIL`. Create the sheet signed in as the account the mail should come
+from.
 
-2. Name it *Grimsby Epoxy Floors — Leads*.
-3. In that sheet: **Extensions → Apps Script**.
-4. Delete the placeholder `function myFunction() {}`, then open
-   `google-apps-script.gs` from this repo, copy the whole file, and paste it in.
-5. Optional — for email alerts on every lead, set:
+After any later edit to `google-apps-script.gs`: **Deploy → Manage deployments
+→ pencil → Version: New version → Deploy.** Saving alone leaves the live
+endpoint on old code.
 
-   ```js
-   var NOTIFY_EMAIL = 'dallastiffin@gmail.com';
-   ```
+### 2. Swap in real prices
 
-   Leave it as `''` to skip alerts and just collect rows.
-6. Save (the disk icon).
+Every price on the site is 2026 Ontario **market research**, not this
+business's rates. Roughly $5–9/sq ft epoxy, $6–10 flake, $6–12 polyaspartic,
+$8–12 metallic, $1,600–3,200 for a 400 sq ft double garage, plus $1–3/sq ft for
+heavy preparation. Replace them in the markdown and rebuild.
 
-**Check it works before touching the website**
+### 3. Replace the metallic photo
 
-In the Apps Script editor, choose `testWrite` from the function dropdown and
-click **Run**. Google will ask for permission the first time — you'll see an
-"unverified app" warning, which is expected for your own script. Click
-**Advanced → Go to (project name)** and allow it.
+`greyscale bathroom marbled epoxy.png` is the only metallic image in the shared
+pool, and Sarnia, Sudbury and Welland all run it on their metallic page. Sarnia
+is 90 km away and competes for the same searches. It ships here with the
+tightest, most off-centre crop in the `CROP` table so the framing differs, but
+this one wants a genuinely new photograph.
 
-Switch back to the sheet. A **Leads** tab should exist with a header row and one
-test row. Delete the test row.
+### 4. Consider a real logo
 
-**Deploy it**
+`tools/make-logo.py` **draws** the lockup rather than cropping a supplied file,
+because no Chatham artwork existed. It is a graphite tile with an amber-topped
+three-bar mark and reads down to 16px, but it is generated, not designed. To
+replace it, rewrite that script or drop in your own assets using the same
+filenames in `site/images/`.
 
-1. **Deploy → New deployment**
-2. Click the gear next to "Select type" → **Web app**
-3. Set:
+---
+
+## Editing the site
+
+**Copy:** edit `Chatham-Epoxy-Flooring-Website-Content.md`, then `python build.py`.
+Never hand-edit the HTML in `site/` — it is overwritten on the next build.
+
+**Photos:** drop PNGs in the root, update `PAGE_PHOTOS` / `GALLERY_PHOTOS` and
+the `CROP` table in `build.py`, then `python build.py --images` (needs Pillow).
+
+**Design and behaviour:** `site/style.css` and `site/script.js` are hand-written
+and never regenerated. Edit them directly — then **rerun `build.py`** so the
+cache fingerprint updates.
+
+---
+
+## Photography — read before changing `PAGE_PHOTOS`
+
+Every photo in the shared pool was already live on another city site before
+this build. The rule applied here is that **no photo holds a role it already
+holds elsewhere** — a Sarnia hero became a gallery item, a Welland hero became
+the services-page image, a Sudbury hero became a service card. On top of that,
+the `CROP` table in `build.py` shifts the focal point and zoom of every shared
+photo so the delivered crop differs even where the source file cannot.
+
+Measured result: **1.6% verbatim body-prose overlap** against all six other
+city sites, and **zero** duplicated alt strings.
+
+Four photos are gitignored and must never be used:
+
+| File | Why |
+|---|---|
+| `warehouse.png` | Another flooring company's logo on a hi-vis shirt |
+| `warehouse grey epoxy.png` | WOODSTOCK EPOXY FLOORING on the crew shirt and resin pail |
+| `blue epoxy spread.png` | Same wordmark on the crew shirt |
+| `grey spready.png` | Same wordmark on the crew shirt |
+
+`warehouse-industrial-chatham.png` **is** tracked and used — it is a crop of
+`warehouse.png` framed to drop the branded worker out of shot entirely. It is a
+different box to Sarnia's crop of the same original, so it is unique to this
+site.
+
+---
+
+## Design notes
+
+This site deliberately does not look like the others in the network. Grimsby
+and Sudbury are green with a safety-orange CTA; Sarnia and Welland are blue
+with the same orange; Cape Breton is navy with teal. All of them put a
+saturated colour in the header, the hero and the buttons, run a gradient hero,
+and set the copy hard left with the estimate form in a sidebar.
+
+Chatham is monochrome first: graphite `#22262c`, a single amber accent drawn
+from aisle-marking yellow, and a lot of white. The hero is a single centred
+column with the business name over the place it serves; the estimate form moved
+out into its own band below. No gradients. Dark buttons rather than orange.
+Section padding is 7rem against the template's 4rem.
+
+The hero uses a **measured scrim** rather than the layered text-shadow the other
+sites use. WCAG gives text shadows no credit, so white type on a photograph is
+formally under 4.5:1 no matter how heavy the shadow. Worst case here — pure
+white photo under an 82% graphite wash — computes to 10.27:1.
+
+All 26 text-on-background pairs were computed numerically from the CSS
+variables. None fall below threshold. If you change the colour variables at the
+top of `site/style.css`, recompute them.
+
+---
+
+## Deploying
+
+`wrangler.toml` is already in the repo, so Cloudflare knows to serve `site/`.
+
+1. [Cloudflare dashboard](https://dash.cloudflare.com) → **Workers & Pages** →
+   **Create application** → **Import a repository**
+2. Pick `dallastiffin/chatham-epoxy-flooring`
+3. Settings:
 
    | Field | Value |
    |---|---|
-   | Execute as | **Me** |
-   | Who has access | **Anyone** |
-
-   "Anyone" is required — visitors submitting the form are not signed in to
-   Google. They can only POST data in; they cannot read your sheet.
-4. **Deploy**, then copy the **Web app URL**. It ends in `/exec`.
-
-**Connect the website**
-
-Open `site/script.js` and paste the URL:
-
-```js
-var SHEET_ENDPOINT = 'https://script.google.com/macros/s/AKfy.../exec';
-```
-
-Then rebuild so the cache fingerprint updates:
-
-```bash
-python build.py
-```
-
-All 14 pages share the same script, so this one edit switches on every form.
-
-**Test on the live site.** Submit a real entry and confirm the row appears. If
-the form shows an error but rows still land in the sheet, it's a CORS quirk —
-set `SHEET_USE_NO_CORS = true` in `site/script.js`, rebuild, and push.
-
-> **Whenever you edit `google-apps-script.gs`**, you must redeploy for the change
-> to take effect: **Deploy → Manage deployments → pencil icon → Version: New
-> version → Deploy**. Editing and saving alone does nothing to the live endpoint.
-
-### 3. Add the real logo
-
-`site/images/logo.svg` and `site/images/favicon.svg` are the last placeholders on
-the site. Everything else is your own photography. Replace both files, keeping
-the same names, and nothing else needs to change.
-
----
-
-## Uploading to GitHub
-
-The repo is already connected to <https://github.com/dallastiffin/grimsby-epoxy-flooring>.
-This commit **replaces** the previous version of the site, so expect a large diff:
-the old `site/assets/` tree is deleted and the new `site/` tree is added.
-
-Open a terminal in this folder and run:
-
-```bash
-git add -A
-git status              # look it over before committing
-git commit -m "Rebuild site: new copy, real photography, project gallery"
-git push origin main
-```
-
-`git add -A` matters here — plain `git add .` will not stage the deleted files
-from the old structure.
-
-If `git push` asks for a password, GitHub no longer accepts account passwords.
-Either install [GitHub CLI](https://cli.github.com) and run `gh auth login`, or
-create a personal access token at **GitHub → Settings → Developer settings →
-Personal access tokens** and paste that in place of the password.
-
----
-
-## Deploying on Cloudflare
-
-The repo already contains `wrangler.toml`, so Cloudflare knows to serve the
-`site/` folder. There are two ways to deploy — pick one.
-
-### Option A — connect the repo (recommended)
-
-Every push to `main` rebuilds and deploys automatically.
-
-1. Go to the [Cloudflare dashboard](https://dash.cloudflare.com) → **Compute (Workers)**
-2. **Create** → **Import a repository**
-3. Authorise GitHub and pick `dallastiffin/grimsby-epoxy-flooring`
-4. Set the build settings:
-
-   | Setting | Value |
-   |---|---|
+   | Worker name | `chatham-epoxy-flooring` — **must match `name` in `wrangler.toml`** |
    | Build command | *(leave empty)* |
    | Deploy command | `npx wrangler deploy` |
    | Root directory | `/` |
 
-   Leave the build command empty. The HTML is already generated and committed —
-   there is nothing to compile. `wrangler.toml` tells the deploy step that
-   `./site` is the folder to publish.
+4. **Save and Deploy**
 
-5. **Save and Deploy**
+A name mismatch is the most common failure. Leave the build command empty — the
+HTML is already generated and committed.
 
-You get a `*.workers.dev` URL within about a minute. After that, every
-`git push origin main` redeploys on its own, and pull requests get their own
-preview URL.
+Then the domain: Cloudflare → **Add a domain** → `chathamepoxyflooring.com` →
+Free plan → copy the two nameservers → set them as Custom DNS at Namecheap.
+Once active, **delete any leftover Namecheap parking A record (`192.64.x.x`)
+but keep the MX and TXT records** — those are email forwarding.
 
-### Option B — deploy from your machine
+Add both the bare domain and `www` as custom domains on the Worker, pick one as
+canonical, and redirect the other with a 301. `DOMAIN` in `build.py` is
+currently `https://chathamepoxyflooring.com` (no `www`). It must match the
+hostname actually served, with no redirect in between, or Google indexes a URL
+that bounces. If you choose `www`, change it and rebuild.
 
-Useful for a one-off or for testing before wiring up Git.
-
-```bash
-npm install -g wrangler
-wrangler login
-wrangler deploy
-```
-
----
-
-## Pointing your domain at it
-
-1. In the Cloudflare dashboard, open the Worker → **Settings** → **Domains & Routes**
-2. **Add** → **Custom domain**
-3. Enter `grimsbyepoxyfloors.ca` and add `www.grimsbyepoxyfloors.ca` as a second one
-
-If the domain is already on Cloudflare, DNS records are created for you and the
-certificate is issued automatically — usually a few minutes. If the domain is
-registered elsewhere, first add the site to Cloudflare and update the
-nameservers at your registrar, which can take a few hours to propagate.
-
-Whichever hostname you settle on — with or without `www` — make sure `DOMAIN` in
-`build.py` matches it exactly, then rebuild and push. Canonical tags pointing at
-a hostname that redirects will confuse Google.
+Do not add links from this site to the other city sites. Ten sites linking to
+each other is a recognisable doorway-network pattern.
 
 ---
 
 ## After launch
 
-- Submit `https://yourdomain.ca/sitemap.xml` in [Google Search Console](https://search.google.com/search-console)
-- Create the Google Business Profile listing — the FAQ answers in the markdown
-  are written to be pasted straight into it
+- Bare domain loads with a padlock; the non-canonical hostname 301s to the canonical one
+- A deep link like `/garage-floor-coating` loads with no redirect
+- `/nope` shows the styled 404
+- Mobile: hamburger opens, dropdown expands, sticky call bar shows
+- Submit a real form entry and confirm both the sheet row and the email
+- `/sitemap.xml` shows the correct domain, then submit it in
+  [Google Search Console](https://search.google.com/search-console)
 - Run the live URL through [PageSpeed Insights](https://pagespeed.web.dev)
-
----
-
-## Editing the site later
-
-**Copy changes:** edit `Grimsby-Epoxy-Floors-Website-Content.md`, then:
-
-```bash
-python build.py
-```
-
-Every page is rebuilt with consistent navigation, schema, CTAs and forms.
-**Do not hand-edit the HTML in `site/`** — it gets overwritten on the next build.
-
-**Photos:** drop new PNGs in the root folder, update the `PAGE_PHOTOS` or
-`GALLERY_PHOTOS` table in `build.py`, then:
-
-```bash
-python build.py --images      # needs Pillow: pip install pillow
-```
-
-This crops, resizes and exports every photo as WebP plus a JPG fallback at two
-widths. See `site/images/README.txt` for which source photo feeds which slot.
-
-**Design and behaviour:** `site/style.css` and `site/script.js` are hand-written
-and never regenerated. Edit them directly.
-
----
-
-## What is in the site
-
-14 pages: home, services index, 6 service pages, about, FAQ, contact, privacy
-policy, terms, and a 404 page.
-
-Each page carries a unique title and meta description, Open Graph tags, canonical
-tag, LocalBusiness schema, breadcrumbs where relevant, multiple CTAs, and the
-estimate form. The home page also has FAQ schema and a 12-photo project gallery
-with a keyboard-accessible lightbox.
-
-Initial load for the home page is about 208 KB — one eager image, everything
-else lazy-loaded.
-
-### One note on photography
-
-`warehouse grey epoxy.png` was **deliberately left out of the site**. It has
-another company's branding visible on the crew shirt and the resin pail. It is
-still in the repo as a master file, but nothing references it. If you get a
-commercial warehouse photo of your own, add it to `PAGE_PHOTOS` in `build.py`
-as `service-commercial-epoxy-flooring` — that card currently uses a large open
-grey floor as a stand-in.
