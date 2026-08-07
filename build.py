@@ -1237,7 +1237,14 @@ special = {hero_sec["title"], faq_sec["title"], benefits["title"],
            process["title"], why["title"], areas["title"]}
 body_sections = [s for s in secs if s["title"] not in special]
 
-hero_paras = "\n".join(f"      <p>{esc(t)}</p>" for k, t in hero_sec["nodes"] if k == "p")
+# Intro band content. The hero section's own "## " title stays unrendered - it
+# was a working label, not display copy - but "### " subheadings inside it are
+# real page structure and come out as h2, since the band sits directly under
+# the h1 and nothing else claims that level here.
+hero_paras = "\n".join(
+    (f'      <h2 class="intro-band__heading">{esc(t)}</h2>' if k == "h3"
+     else f"      <p>{esc(t)}</p>")
+    for k, t in hero_sec["nodes"])
 
 # Benefit cards - one card per source paragraph (no text removed)
 benefit_cards = "\n".join(f"""      <article class="feature">

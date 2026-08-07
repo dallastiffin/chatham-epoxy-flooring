@@ -704,6 +704,18 @@ strong { color: var(--color-heading); }
   margin-bottom: 0;
   color: var(--color-text-muted);
 }
+/* Subheadings inside the intro band. Smaller than a full section h2 because
+   they sit close under the h1 and the band is a 720px reading column, not a
+   full-width section. The first one needs no top space; later ones are
+   separated from the paragraph above them. */
+.intro-band__heading {
+  font-size: var(--fs-xl);
+  letter-spacing: -0.018em;
+  margin: 0 0 var(--space-4);
+}
+.intro-band p + .intro-band__heading {
+  margin-top: var(--space-6);
+}
 
 /* --- Quote band: the estimate form, lifted out of the hero --- */
 .quote-band {

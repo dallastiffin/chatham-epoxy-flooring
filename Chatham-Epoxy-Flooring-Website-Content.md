@@ -4,6 +4,12 @@
 
 ## A Floor You Can Park On, Work On And Wipe Clean
 
+### High Quality Epoxy Floors In Chatham-Kent
+
+Chatham Epoxy Flooring installs resin floors in garages, basements, shops and farm buildings across Chatham-Kent. Every slab is diamond ground back to clean concrete and primed to suit the moisture reading we take before quoting. The build goes on paper layer by layer, so you know what is going down and how thick it is. Two days on site is typical, and the floor is ready to walk on the morning after the last coat.
+
+### Why Install an Epoxy Floor?
+
 An epoxy floor turns bare concrete into a hard, sealed surface that takes a parked vehicle, a rolling toolbox and a dropped wrench without complaint. It stops the grey dust that comes off raw concrete, it keeps oil and road salt sitting on top where you can wipe them away instead of soaking in, and because the finish reflects light, a dim garage or basement ends up noticeably brighter than it was.
 
 The part you can see is the easy part. Whether a floor lasts twenty years or starts peeling in two comes down to the concrete underneath it and the work that happens before anyone opens a pail of resin. That is where most of our time goes on every job, and it is the first thing we will talk to you about.
