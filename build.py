@@ -708,6 +708,21 @@ def footer():
 
     </div>
 
+    <!-- Service area map.
+         The embed ships from Google at a fixed 600x450. Those attributes are
+         kept so the browser reserves the right box before the frame loads and
+         the footer does not jump, but CSS overrides the rendered size to fill
+         the container. loading="lazy" is deliberate: this is the last thing on
+         the page and it must not cost anything on first paint. -->
+    <section class="footer-map" aria-labelledby="footer-map-heading">
+      <h3 id="footer-map-heading">Our Service Area</h3>
+      <iframe
+        title="Map of the Chatham-Kent service area covered by {BUSINESS}"
+        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d17954.15452633293!2d-82.20535565219292!3d42.39957092518037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sca!4v1786064765172!5m2!1sen!2sca"
+        width="600" height="450" loading="lazy" allowfullscreen=""
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+    </section>
+
     <div class="footer-bottom">
       <p style="margin:0;">&copy; <span data-year>2026</span> {BUSINESS}. All rights reserved.</p>
       <ul class="footer-legal">
